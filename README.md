@@ -6,7 +6,7 @@ TokenTool Blockchain Toolbox
 
 A toolbox that makes it easier for more people to operate on the chain, batch query blockchain balances, batch create BTC, ETH, SOL, TRX, BNB and other wallet addresses, one-click issuance, batch collection, batch sending, market overview, and many other operations.
 
-> Original link: [https://docs.cointool.app/](https://docs.cointool.app)
+> Original link: [https://docs.tokentools.app/](https://docs.tokentools.app)
 >
 > Quotation address:
 >

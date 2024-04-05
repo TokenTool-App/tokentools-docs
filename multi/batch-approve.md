@@ -30,15 +30,15 @@ After the current authorization is confirmed, `57ce3d5cd8685bed28ae71f3a5cfd3b42
 
 Use Token Tool [https://TokenTools.App](https://tokentools.app) or [https://TokenTools.App/approve/eth](https://tokentools.app/approve/eth) to query Address authorization information.
 
-![cointool](../.gitbook/assets/Snipaste_2021-09-29_15-10-52.png)
+![tokentools](../.gitbook/assets/Snipaste_2021-09-29_15-10-52.png)
 
 1. Link the wallet, scan the wallet address (If you have not authorized the contract, prompt: you have not authorized tokens to the contract, great!
 
-![cointool](../.gitbook/assets/Snipaste_2021-09-29_15-13-14.png)
+![tokentools](../.gitbook/assets/Snipaste_2021-09-29_15-13-14.png)
 
 1. Scan out the authorized contract information (⚠️The scanned address is not the current user wallet address, and the authorization cannot be canceled
 
-![cointool](../.gitbook/assets/Snipaste_2021-09-29_15-15-51.png)
+![tokentools](../.gitbook/assets/Snipaste_2021-09-29_15-15-51.png)
 
 ```text
 // The essence of canceling the authorization is to call the contract authorization, and authorize the amount of 0 to the target address
