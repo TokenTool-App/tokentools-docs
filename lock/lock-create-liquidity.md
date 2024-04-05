@@ -6,12 +6,12 @@ Teaching video: Add liquidity, lock pool, unlock and other operations [https://y
 
 
 
-Navigate to [https://tokentool.app/lock/create](https://tokentool.app/lock/create) and follow this simple procedure:
+Navigate to [https://tokentools.app/lock/create](https://tokentools.app/lock/create) and follow this simple procedure:
 
 1. Link your wallet.
-2. Go to [https://tokentool.app/lock/create](https://tokentool.app/lock/create)
+2. Go to [https://tokentools.app/lock/create](https://tokentools.app/lock/create)
 3. After entering your liquidity token contract address, your token pool information and balance will be displayed (as shown in the figure TTT-WBNB transaction pair, exchange, balance and other information).
-     **tips: If you don’t know the LP address of your token, you can find the LP address through [How to Query LP Address](https://docs.tokentool.app/common-problem/how-to-find-liquidity). **
+     **tips: If you don’t know the LP address of your token, you can find the LP address through [How to Query LP Address](https://docs.tokentools.app/common-problem/how-to-find-liquidity). **
 
 ![lock-token](../.gitbook/assets/lock/Snipaste_2022-05-08_23-15-41.png)
 

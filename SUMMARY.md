@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [TokenTool Documentation](README.md)
+* [TokenTools Documentation](README.md)
 * [Contact Us](zh/contact-us.md)
 * [Social Links](zh/social-links.md)
 * [Service Fees](zh/service-fees.md)

@@ -2,11 +2,11 @@
 
 Create Token Links:
 
-[https://tokentool.app/createToken/eth](https://tokentool.app/createToken/eth) - One-click issuance of tokens with blacklist/minting options.
+[https://tokentools.app/createToken/eth](https://tokentools.app/createToken/eth) - One-click issuance of tokens with blacklist/minting options.
 
-[https://tokentool.app/createToken/V2](https://tokentool.app/createToken/V2) - One-click issuance of tokens with fees.
+[https://tokentools.app/createToken/V2](https://tokentools.app/createToken/V2) - One-click issuance of tokens with fees.
 
-[https://tokentool.app/createToken/V3](https://tokentool.app/createToken/V3) - One-click issuance of dividend tokens.
+[https://tokentools.app/createToken/V3](https://tokentools.app/createToken/V3) - One-click issuance of dividend tokens.
 
 ## Steps to Operate via Wallet APP
 

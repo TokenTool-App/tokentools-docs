@@ -2,7 +2,7 @@
 
 How to Participate in the TokenTool Pre-Sale
 
-1. Go to the following link [https://tokentool.app/launchpad/list](https://tokentool.app/launchpad/list) all launchpad list pages
+1. Go to the following link [https://tokentools.app/launchpad/list](https://tokentools.app/launchpad/list) all launchpad list pages
 1. There are 4 pre-sale states: in preparation, in progress, on the market, and closed. You only need to buy pre-sales that are in the status of 【in progress】. For example, the "TT" pre-sale is currently [Ongoing]. Select the project you want to participate in, and click "ViewPool".
 1. After clicking "ViewPool", you can see all the information related to the pre-sale. You should check everything carefully before buying.
 

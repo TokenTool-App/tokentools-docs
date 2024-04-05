@@ -20,10 +20,10 @@ This is a huge innovation compared to most token offerings, where projects may a
 
 ## How do I create my token lock?
 
-Navigate to [https://tokentool.app/lock/create](https://tokentool.app/lock/create) and follow this simple procedure:
+Navigate to [https://tokentools.app/lock/create](https://tokentools.app/lock/create) and follow this simple procedure:
 
 1. Link your wallet.
-2. Go to [https://tokentool.app/lock/create](https://tokentool.app/lock/create)
+2. Go to [https://tokentools.app/lock/create](https://tokentools.app/lock/create)
 3. After entering your token contract address, your token information and token balance will be displayed.
 4. Enter the amount of token token balance you want to lock and select Lock until a certain point in time to unlock the token time
 

@@ -29,7 +29,7 @@ Currency dividends: Deduct tokens, 'when triggered' exchange for dividends and d
 Check out the steps below to learn how to use the Matamask wallet on the PC side to create tokens for holding dividends through TokenTool.
 
 1. The MateMask wallet is linked to the blockchain network.
-2. Open the create token link address [https://tokentool.app/createToken/v3](https://tokentool.app/createToken/v3)
+2. Open the create token link address [https://tokentools.app/createToken/v3](https://tokentools.app/createToken/v3)
 3. Enter the necessary information, but before that, let's review all the important fields that need to be filled:
 
 
@@ -153,6 +153,6 @@ When the current owner (owner) has not given up the authority, he can enter the 
 
 > Referrer
 
-> Create token address: [https://www.tokentool.app/createToken/v3](https://www.tokentool.app/createToken/v3)
+> Create token address: [https://www.tokentools.app/createToken/v3](https://www.tokentools.app/createToken/v3)
 
 > YouTube teaching video: [https://youtu.be/CePxDWuOyd8](https://youtu.be/CePxDWuOyd8)

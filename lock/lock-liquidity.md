@@ -4,10 +4,10 @@ Teaching video: Add liquidity, lock pool, unlock and other operations [https://y
 
 
 
-Navigate to [https://tokentool.app/lock/liquidity](https://tokentool.app/lock/liquidity) and follow this simple procedure:
+Navigate to [https://tokentools.app/lock/liquidity](https://tokentools.app/lock/liquidity) and follow this simple procedure:
 
 1. Link your wallet.
-2. Go to [https://tokentool.app/lock/liquidity](https://tokentool.app/lock/liquidity)
+2. Go to [https://tokentools.app/lock/liquidity](https://tokentools.app/lock/liquidity)
 3. View the current address lock pool sublist data, you can see (lock time and unlock time, detailed information, delayed unlock operation, etc.)
 
 ![lock-token](../.gitbook/assets/lock/Snipaste_2022-11-26_12-16-37.png)

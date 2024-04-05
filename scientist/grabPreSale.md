@@ -1,8 +1,8 @@
 # Scientists grab DxSale pre-sale tutorial
 
-https://www.tokentool.app is a free collection of tools on the blockchain, today I will teach you how to quickly snap up the pre-sale tokens on DxSale. DxSale is not going to introduce much here. If you still don’t know what DxSale is for, you can go online to learn first.
+https://www.tokentools.app is a free collection of tools on the blockchain, today I will teach you how to quickly snap up the pre-sale tokens on DxSale. DxSale is not going to introduce much here. If you still don’t know what DxSale is for, you can go online to learn first.
 
-https://www.tokentool.app/robotTrade/grabPreSale A free tool to help Xiaobai grab the pre-sale of DxSale, how to quickly grab the DxSale pre-sale tokens at the first time, then it is launched as soon as the countdown ends Transaction, sent to the pre-sale address through your bnb.
+https://www.tokentools.app/robotTrade/grabPreSale A free tool to help Xiaobai grab the pre-sale of DxSale, how to quickly grab the DxSale pre-sale tokens at the first time, then it is launched as soon as the countdown ends Transaction, sent to the pre-sale address through your bnb.
 
 ![create token](../.gitbook/assets/Snipaste_2021-10-24_21-40-00.png)
 

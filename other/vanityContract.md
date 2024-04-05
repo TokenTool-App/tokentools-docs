@@ -3,7 +3,7 @@
 How to generate a smart contract address, for example: ``0x0000000000004946c0e9f43f4dee607b0ef1fa1c``.
 Check the following steps to learn how to use the PC terminal to generate a smart number contract address through the contract smart number generator of the TokenTool platform.
 
-1. Open [VanityContractGenerator](https://tokentool.app/other/vanityContractGenerator) address: [https://tokentool.app/other/vanityContractGenerator](https://tokentool.app/other/vanityContractGenerator)
+1. Open [VanityContractGenerator](https://tokentools.app/other/vanityContractGenerator) address: [https://tokentools.app/other/vanityContractGenerator](https://tokentools.app/other/vanityContractGenerator)
 
 2. Enter the string content of the name you want to generate ** (reminder: after the page is loaded, it is recommended to disconnect the network or turn off WI-FI offline generation) **
 
@@ -49,12 +49,12 @@ Import the wallet address, and transfer enough to pay the commission for deployi
 
 > Reference address:
 >
-> [https://tokentool.app/other/vanityContractGenerator](https://tokentool.app/other/vanityContractGenerator) contract number generation
+> [https://tokentools.app/other/vanityContractGenerator](https://tokentools.app/other/vanityContractGenerator) contract number generation
 >
-> [https://tokentool.app/createToken/bsc](https://tokentool.app/createToken/bsc) Create Token V1
+> [https://tokentools.app/createToken/bsc](https://tokentools.app/createToken/bsc) Create Token V1
 >
-> [https://tokentool.app/createToken/v2](https://tokentool.app/createToken/v2) Create token V2 version
+> [https://tokentools.app/createToken/v2](https://tokentools.app/createToken/v2) Create token V2 version
 >
-> [https://tokentool.app/createToken/v3](https://tokentool.app/createToken/v3) Create token V3 version
+> [https://tokentools.app/createToken/v3](https://tokentools.app/createToken/v3) Create token V3 version
 >
-> [https://tokentool.app/createToken/v4](https://tokentool.app/createToken/v4) Create token V4 version
+> [https://tokentools.app/createToken/v4](https://tokentools.app/createToken/v4) Create token V4 version

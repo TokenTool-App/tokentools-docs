@@ -17,7 +17,7 @@ Scenario: Send NFTs in a small address to a large address in batches
 
 ![nft-collection](../.gitbook/assets/nft/image-20231117171115512.png)
 
-1. Open the NFT batch collection function link page [https://tokentool.app/nft/NftMoreToOne/bsc](https://tokentool.app/nft/NftMoreToOne/bsc)
+1. Open the NFT batch collection function link page [https://tokentools.app/nft/NftMoreToOne/bsc](https://tokentools.app/nft/NftMoreToOne/bsc)
 2. Use the [import Account] button to import the private key of the small address that needs to be collected.
 3. After entering the NFT contract address to be aggregated, click [Auto Get TokenId] to automatically obtain the NFTID of the address.
     1. If you cannot obtain the NFTID, please manually edit the ID value present in each address.

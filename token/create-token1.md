@@ -28,7 +28,7 @@ Temporarily discard permissions: You can temporarily discard permissions and ret
 
 ## Token basic information
 
-First, we create tokens through the visual interface, and open the token creation function through [https://www.tokentool.app/createToken/eth](https://www.tokentool.app/createToken/eth). Fill in the token information .
+First, we create tokens through the visual interface, and open the token creation function through [https://www.tokentools.app/createToken/eth](https://www.tokentools.app/createToken/eth). Fill in the token information .
 
 ![create token](../.gitbook/assets/Snipaste_2021-10-24_12-49-37.png)
 
@@ -97,6 +97,6 @@ Successfully created the token and generated the token address: `0xb1d1502fa0e57
 
 
 
-> Original link: [https://docs.tokentool.app/token/create-token](https://docs.tokentool.app/token/create-token)
+> Original link: [https://docs.tokentools.app/token/create-token](https://docs.tokentools.app/token/create-token)
 
 >Video tutorial link: [https://youtu.be/K0PExlXV0LI](https://youtu.be/K0PExlXV0LI)

@@ -12,62 +12,62 @@ A toolbox that makes it easier for more people to operate on the chain, batch qu
 >
 > Launchpad
 >
-> [https://tokentool.app/launchpad/create](https://tokentool.app/launchpad/create) Create Launchpad
+> [https://tokentools.app/launchpad/create](https://tokentools.app/launchpad/create) Create Launchpad
 >
-> [https://tokentool.app/launchpad/list](https://tokentool.app/launchpad/list) Launchpad List
+> [https://tokentools.app/launchpad/list](https://tokentools.app/launchpad/list) Launchpad List
 >
 > NFT
 >
-> [https://tokentool.app/nft/minting](https://tokentool.app/nft/minting) Live Mint(free-mint)
+> [https://tokentools.app/nft/minting](https://tokentools.app/nft/minting) Live Mint(free-mint)
 >
-> [https://tokentool.app/nft/multiSender](https://tokentool.app/nft/multiSender) NFT Batch Sender
+> [https://tokentools.app/nft/multiSender](https://tokentools.app/nft/multiSender) NFT Batch Sender
 >
-> [https://tokentool.app/nft/createNft/eth](https://tokentool.app/nft/createNft/eth) Create standard NFT
+> [https://tokentools.app/nft/createNft/eth](https://tokentools.app/nft/createNft/eth) Create standard NFT
 >
-> [https://tokentool.app/nft/NftMoreToOne](https://tokentool.app/nft/NftMoreToOne) NFT Batch Collection
+> [https://tokentools.app/nft/NftMoreToOne](https://tokentools.app/nft/NftMoreToOne) NFT Batch Collection
 >
 > Create Token
 >
-> [https://tokentool.app/createToken/eth](https://tokentool.app/createToken/eth) One-click issuance V1
+> [https://tokentools.app/createToken/eth](https://tokentools.app/createToken/eth) One-click issuance V1
 >
-> [https://tokentool.app/createToken/V2](https://tokentool.app/createToken/V2) One-click issuance with handling fees V2
+> [https://tokentools.app/createToken/V2](https://tokentools.app/createToken/V2) One-click issuance with handling fees V2
 >
-> [https://tokentool.app/createToken/V3](https://tokentool.app/createToken/V3) One-click issuance of dividend coins V3
+> [https://tokentools.app/createToken/V3](https://tokentools.app/createToken/V3) One-click issuance of dividend coins V3
 >
 > Token Lock
 >
-> [https://tokentool.app/lock/create](https://tokentool.app/lock/create) Create lock
+> [https://tokentools.app/lock/create](https://tokentools.app/lock/create) Create lock
 >
-> [https://tokentool.app/lock/token](https://tokentool.app/lock/token) Lock token list
+> [https://tokentools.app/lock/token](https://tokentools.app/lock/token) Lock token list
 >
-> [https://tokentool.app/lock/liquidity](https://tokentool.app/lock/liquidity) Liquidity list
+> [https://tokentools.app/lock/liquidity](https://tokentools.app/lock/liquidity) Liquidity list
 >
 > Scientist grab coins
 >
-> [https://tokentool.app/robotTrade/panicBuying](https://tokentool.app/robotTrade/panicBuying) Panic buying mode
+> [https://tokentools.app/robotTrade/panicBuying](https://tokentools.app/robotTrade/panicBuying) Panic buying mode
 >
-> [https://tokentool.app/robotTrade/grabPreSale](https://tokentool.app/robotTrade/grabPreSale) Grab pre-sale
+> [https://tokentools.app/robotTrade/grabPreSale](https://tokentools.app/robotTrade/grabPreSale) Grab pre-sale
 >
-> [https://tokentool.app/robotTrade/commissionOrder](https://tokentool.app/robotTrade/commissionOrder) Commission order mode
+> [https://tokentools.app/robotTrade/commissionOrder](https://tokentools.app/robotTrade/commissionOrder) Commission order mode
 >
-> [https://tokentool.app/robotTrade/unicrypt](https://tokentool.app/robotTrade/unicrypt) Unicrypt grab
+> [https://tokentools.app/robotTrade/unicrypt](https://tokentools.app/robotTrade/unicrypt) Unicrypt grab
 >
-> [https://tokentool.app/gasPrice/eth](https://tokentool.app/gasPrice/eth) Latest gasoline fee
+> [https://tokentools.app/gasPrice/eth](https://tokentools.app/gasPrice/eth) Latest gasoline fee
 >
-> [https://tokentool.app/oneToMore/eth](https://tokentool.app/oneToMore/eth) Batch send Token
+> [https://tokentools.app/oneToMore/eth](https://tokentools.app/oneToMore/eth) Batch send Token
 >
-> [https://tokentool.app/batchCheckBalance/eth](https://tokentool.app/batchCheckBalance/eth) Batch check wallet balance
+> [https://tokentools.app/batchCheckBalance/eth](https://tokentools.app/batchCheckBalance/eth) Batch check wallet balance
 >
-> [https://tokentool.app/approve/eth](https://tokentool.app/approve/eth) Token Approve Query
+> [https://tokentools.app/approve/eth](https://tokentools.app/approve/eth) Token Approve Query
 >
-> [https://tokentool.app/batchCollection/eth](https://tokentool.app/batchCollection/eth) Token Batch Collection
+> [https://tokentools.app/batchCollection/eth](https://tokentools.app/batchCollection/eth) Token Batch Collection
 >
-> [https://tokentool.app/tokenHoldScan/eth](https://tokentool.app/tokenHoldScan/eth) Token Holder Scan
+> [https://tokentools.app/tokenHoldScan/eth](https://tokentools.app/tokenHoldScan/eth) Token Holder Scan
 >
 > Other Tools
 > 
-> [https://tokentool.app/other/unitConverter/eth](https://tokentool.app/other/unitConverter/eth) ETH Unit Converter
+> [https://tokentools.app/other/unitConverter/eth](https://tokentools.app/other/unitConverter/eth) ETH Unit Converter
 > 
-> [https://tokentool.app/other/tokenApproval](https://tokentool.app/other/tokenApproval) Token Approval
+> [https://tokentools.app/other/tokenApproval](https://tokentools.app/other/tokenApproval) Token Approval
 > 
-> [https://tokentool.app/other/vanityAddressGenerator](https://tokentool.app/other/vanityAddressGenerator) Vanity Address Generator
+> [https://tokentools.app/other/vanityAddressGenerator](https://tokentools.app/other/vanityAddressGenerator) Vanity Address Generator

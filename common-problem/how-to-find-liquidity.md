@@ -41,7 +41,7 @@ Note: This method searches for the LP address of the BNB-XXX trading pair. If yo
 
 ## Method 4: Use the contract security check function
 
-1. Open the contract security check function URL: [https://tokentool.app/audit/contract](https://tokentool.app/audit/contract)
+1. Open the contract security check function URL: [https://tokentools.app/audit/contract](https://tokentools.app/audit/contract)
 2. Select the supported blockchain and enter the contract address for security check.
 
 ![add-liquidity](../.gitbook/assets/common-problem/Snipaste_2022-11-24_22-25-45.png)

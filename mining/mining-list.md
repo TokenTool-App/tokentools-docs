@@ -5,7 +5,7 @@
 ## mining list
 
 1. Link your wallet.
-2. Go to [https://tokentool.app/mining/list](https://tokentool.app/mining/list) My mining list
+2. Go to [https://tokentools.app/mining/list](https://tokentools.app/mining/list) My mining list
 
 ![my-mining](../.gitbook/assets/mining/Snipaste_2022-06-20_16-43-58.png)
 

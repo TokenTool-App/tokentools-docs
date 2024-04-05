@@ -11,9 +11,9 @@ Before you can make a transaction, you need a wallet compatible with Web3 blockc
 
 ### Batch exchange transactions on TokenTool Swap
 
-1. [Go to the redemption page here. ](https://tokentool.app/batchSwap/bsc)[https://tokentool.app/batchSwap/bsc](https://tokentool.app/batchSwap/bsc)
+1. [Go to the redemption page here. ](https://tokentools.app/batchSwap/bsc)[https://tokentools.app/batchSwap/bsc](https://tokentools.app/batchSwap/bsc)
 
-2. If you haven't linked your wallet yet, click Link Wallet in your upper right corner. It can also be added through [Quick Network](https://tokentool.app/other/chainList). Fast link with blockchain network link.
+2. If you haven't linked your wallet yet, click Link Wallet in your upper right corner. It can also be added through [Quick Network](https://tokentools.app/other/chainList). Fast link with blockchain network link.
 
 3. Select the token you want to trade from the position of the button part, the default selection is BNB.
 
@@ -71,12 +71,12 @@ The tolerance time for transactions to be packaged on the chain, such as a sudde
 
 > Reference address:
 >
-> [https://tokentool.app/batchSwap/bsc](https://tokentool.app/batchSwap/bsc) Batch Swap exchange
+> [https://tokentools.app/batchSwap/bsc](https://tokentools.app/batchSwap/bsc) Batch Swap exchange
 >
-> [https://tokentool.app/oneToMore/bsc](https://tokentool.app/oneToMore/bsc) send tokens in batches
+> [https://tokentools.app/oneToMore/bsc](https://tokentools.app/oneToMore/bsc) send tokens in batches
 >
-> [https://tokentool.app/batchCollection/bsc](https://tokentool.app/batchCollection/bsc) Batch collection of tokens
+> [https://tokentools.app/batchCollection/bsc](https://tokentools.app/batchCollection/bsc) Batch collection of tokens
 >
-> [https://tokentool.app/createWallet/bsc](https://tokentool.app/createWallet/bsc) Create wallets in batches
+> [https://tokentools.app/createWallet/bsc](https://tokentools.app/createWallet/bsc) Create wallets in batches
 >
 > Video Tutorials

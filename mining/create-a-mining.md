@@ -5,7 +5,7 @@ How to use TokenTool to create mining activities
 ## Step 1: Mining Rules
 
 1. Link your wallet.
-2. Go to [https://tokentool.app/mining/list](https://tokentool.app/mining/list) to create a mining page.
+2. Go to [https://tokentools.app/mining/list](https://tokentools.app/mining/list) to create a mining page.
 3. Click Create Mining
 
 ![create-mining](../.gitbook/assets/mining/Snipaste_2022-06-20_16-37-44.png)

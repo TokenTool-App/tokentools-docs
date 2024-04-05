@@ -1,6 +1,6 @@
 # Adding/Removing Whitelists
 
-The whitelist on TokenTool is a list of approved addresses by the administrator, and only these addresses can participate in the presale. The purpose of having a whitelist is to protect the presale from bot attacks and to have genuine investors. You can enable/disable the whitelist feature at any time before the presale begins or while creating a Launchpad, as described in [Creating Launchpad](https://docs.tokentool.app/launchpads/create-a-launchpad).
+The whitelist on TokenTool is a list of approved addresses by the administrator, and only these addresses can participate in the presale. The purpose of having a whitelist is to protect the presale from bot attacks and to have genuine investors. You can enable/disable the whitelist feature at any time before the presale begins or while creating a Launchpad, as described in [Creating Launchpad](https://docs.tokentools.app/launchpads/create-a-launchpad).
 
 
 

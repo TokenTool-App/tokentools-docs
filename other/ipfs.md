@@ -5,7 +5,7 @@ Powering the Distributed Web with IPFS, a peer-to-peer hypermedia protocol desig
 ## How to upload local pictures to IPFS network
 
 
-### Go to [https://tokentool.app/other/ipfs](https://tokentool.app/other/ipfs) IPFS image upload page
+### Go to [https://tokentools.app/other/ipfs](https://tokentools.app/other/ipfs) IPFS image upload page
 
 ![create-mining](../.gitbook/assets/other/ipfs/ipfs_01.png)
 

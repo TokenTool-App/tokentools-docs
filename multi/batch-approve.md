@@ -28,7 +28,7 @@ After the current authorization is confirmed, `57ce3d5cd8685bed28ae71f3a5cfd3b42
 
 ## Solution
 
-Use Token Tool [https://TokenTool.App](https://tokentool.app) or [https://TokenTool.App/approve/eth](https://tokentool.app/approve/eth) to query Address authorization information.
+Use Token Tool [https://TokenTools.App](https://tokentools.app) or [https://TokenTools.App/approve/eth](https://tokentools.app/approve/eth) to query Address authorization information.
 
 ![cointool](../.gitbook/assets/Snipaste_2021-09-29_15-10-52.png)
 
@@ -47,7 +47,7 @@ Use Token Tool [https://TokenTool.App](https://tokentool.app) or [https://TokenT
 00000000000000000000000000000000000000000000000000000000000000000 // authorized amount (0)
 ```
 
-> Original link: [https://docs.tokentool.app/learn/batch-approve](https://github.com/TokenTool-App/tokentool-docs/blob/main/learn/batch-approve.md)
+> Original link: [https://docs.tokentools.app/learn/batch-approve](https://github.com/TokenTool-App/tokentool-docs/blob/main/learn/batch-approve.md)
 >
 > Citing reference knowledge
 >

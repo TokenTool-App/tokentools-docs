@@ -30,7 +30,7 @@ All chains are supported, any trading pair is supported, and liquidity can be ad
 
 ## Token basic information
 
-First, we create tokens through the visual interface, and open the function of creating tokens through [https://tokentool.app/createToken/standard](https://tokentool.app/createToken/standard). Fill in the token information.
+First, we create tokens through the visual interface, and open the function of creating tokens through [https://tokentools.app/createToken/standard](https://tokentools.app/createToken/standard). Fill in the token information.
 
 ![create token](../.gitbook/assets/standard/Snipaste_2023-04-13_11-17-09.png)
 
@@ -73,4 +73,4 @@ Check out the steps below to learn how to use MetaMask to access the Token Admin
 
 
 
-> Original link: [https://docs.tokentool.app/token/standard](https://docs.tokentool.app/token/standard)
+> Original link: [https://docs.tokentools.app/token/standard](https://docs.tokentools.app/token/standard)

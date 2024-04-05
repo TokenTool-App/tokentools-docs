@@ -1,12 +1,12 @@
-#tokentool.app Scientist Grabbing Coin Artifact
+#tokentools.app Scientist Grabbing Coin Artifact
 
 Since shib became popular, various animal coins have appeared in the primary market, and they have also begun to move to the primary market. The primary market is always several times, tens of times or even hundreds of times, which is very exciting. However, the coins in the primary market have not passed the review, and the risks are extremely high. But to play the primary market to grab new coins, you need a good tool-coin grabbing scientist. Grab in the project as soon as it opens, and earn a large profit in the later stage.
 
-## **What is TokenTool.App? **
+## **What is TokenTools.App? **
 
-TokenTool.app itself is a website for scientists with many powerful functions, such as creating wallets in batches, airdropping in batches, querying in batches, token collection, wallet authorization release and other powerful functions. Of course, what I want to introduce today is not these, but an artifact for scientists to grab coins designed for the hot primary market. Best of all ** FREE! ** **free! ** **free! ** A little server and labor fee may be charged later, but it is always free now.
+TokenTools.app itself is a website for scientists with many powerful functions, such as creating wallets in batches, airdropping in batches, querying in batches, token collection, wallet authorization release and other powerful functions. Of course, what I want to introduce today is not these, but an artifact for scientists to grab coins designed for the hot primary market. Best of all ** FREE! ** **free! ** **free! ** A little server and labor fee may be charged later, but it is always free now.
 
-Scientist web page https://tokentool.app/robotTrade/panicBuying
+Scientist web page https://tokentools.app/robotTrade/panicBuying
 
 
 

@@ -18,7 +18,7 @@ Note: You need to know the NFT contract address of the wallet and each NFTID.
 
 ![nft-multiSender](../.gitbook/assets/nft/image-20231117161814363.png)
 
-1. Open the batch sending NFT function link page https://tokentool.app/nft/multiSender/bsc
+1. Open the batch sending NFT function link page https://tokentools.app/nft/multiSender/bsc
 
 2. Paste the NFT contract address to be sent into the input box
 
@@ -26,7 +26,7 @@ Note: You need to know the NFT contract address of the wallet and each NFTID.
     1. Format usage: address, NFTID (⚠️Note that the comma is an English comma symbol)
     1. In the example: `0xd41b9AC5767cd90AbC7C997730591cBb7223D3D9,1` sends the NFT with NFTID 1 to the `...3D3D9` address
    
-4. You can also upload the xlsx form of the file through [Upload File]. The format needs to be filled in according to the [template file] (https://tokentool.app/example.xlsx).
+4. You can also upload the xlsx form of the file through [Upload File]. The format needs to be filled in according to the [template file] (https://tokentools.app/example.xlsx).
 
 ![nft-multiSender](../.gitbook/assets/nft/image-20231117162124689.png)
 

@@ -30,7 +30,7 @@ Destruction: Tokens are deducted and sent directly to the black hole for destruc
 
 Check out the steps below to learn how to use MetaMask to create a token with buy and sell rates through TokenTool.
 
-1. First, we create tokens through the visual interface, and open the function of creating tokens through [https://www.tokentool.app/createToken/v2](https://www.tokentool.app/createToken/v2). Fill in the token currency information.
+1. First, we create tokens through the visual interface, and open the function of creating tokens through [https://www.tokentools.app/createToken/v2](https://www.tokentools.app/createToken/v2). Fill in the token currency information.
 
 ![create token ](../.gitbook/assets/v2/Snipaste_2022-05-03_14-39-31.png)
 
@@ -139,6 +139,6 @@ Check out the steps below to learn how to use MetaMask to access the Token Admin
 
 > Referrer
 
-> Create token address: [https://www.tokentool.app/createToken/v2](https://www.tokentool.app/createToken/v2)
+> Create token address: [https://www.tokentools.app/createToken/v2](https://www.tokentools.app/createToken/v2)
 
 > YouTube teaching video: [https://youtu.be/zPVY_oZH5qo](https://youtu.be/zPVY_oZH5qo)

@@ -2,8 +2,8 @@
 
 ## Step 1: Validate the token
 1. Link your wallet.
-2. Go to [https://tokentool.app/launchpad/create](https://tokentool.app/launchpad/create)
-3. Enter your token address (if you already have one), if not, you can create your token through [one-click issuance](https://tokentool.app/createToken/V2)
+2. Go to [https://tokentools.app/launchpad/create](https://tokentools.app/launchpad/create)
+3. Enter your token address (if you already have one), if not, you can create your token through [one-click issuance](https://tokentools.app/createToken/V2)
 4. After entering the token, the token information will be displayed. After clicking [Authorize], you can enter the next step
 
 ![create-luanchpad](../.gitbook/assets/launchpad/Snipaste_2022-05-05_22-05-50.png)
@@ -63,7 +63,7 @@ There are some caveats for this step:
 
     For example: https://ipfs.io/ipfs/Qma34oPEZzS5nEcKxzrdvpW6Th2gR2qxKayE18CFwNSJN6
 
-    If you don't have an online picture URL, you can use the [TokenTool IPFS](https://tokentool.app/other/ipfs) file system to upload pictures to IPFS
+    If you don't have an online picture URL, you can use the [TokenTool IPFS](https://tokentools.app/other/ipfs) file system to upload pictures to IPFS
 
 3. After the input is complete, click Next.
 
