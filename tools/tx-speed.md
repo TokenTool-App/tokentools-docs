@@ -33,5 +33,5 @@
 >
 > 最新Gas汽油：[https://tokentools.app/gasPrice/eth](https://tokentools.app/gasPrice/eth)
 >
-> 原文链接：[https://docs.cointool.app](https://docs.cointool.app)
+> 原文链接：[https://docs.tokentools.app](https://docs.tokentools.app)
 

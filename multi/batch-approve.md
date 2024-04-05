@@ -30,15 +30,15 @@
 
 使用币工具 [https://TokenTools.App](https://tokentools.app) 或者 [https://TokenTools.App/approve/eth](https://tokentools.app/approve/eth) 进行查询地址授权信息。
 
-![cointool](../.gitbook/assets/Snipaste_2021-09-29_15-10-52.png)
+![tokentools](../.gitbook/assets/Snipaste_2021-09-29_15-10-52.png)
 
 1. 链接钱包，地址钱包地址进行扫描 （如没有授权过合约  提示：你没有授权代币给合约过，很棒!
 
-![cointool](../.gitbook/assets/Snipaste_2021-09-29_15-13-14.png)
+![tokentools](../.gitbook/assets/Snipaste_2021-09-29_15-13-14.png)
 
 1. 扫描出授权的合约信息（⚠️扫描地址不是当前用户钱包地址，则无法取消授权
 
-![cointool](../.gitbook/assets/Snipaste_2021-09-29_15-15-51.png)
+![tokentools](../.gitbook/assets/Snipaste_2021-09-29_15-15-51.png)
 
 ```text
 // 取消授权本质还是调用合约授权，授权0的额度给目标地址
