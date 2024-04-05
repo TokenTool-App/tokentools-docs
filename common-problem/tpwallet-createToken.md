@@ -2,11 +2,11 @@
 
 创建代币链接
 
-[https://tokentool.info/createToken/eth](https://tokentool.info/createToken/eth) 一键发币带有黑名单/增发令牌
+[https://tokentools.app/createToken/eth](https://tokentools.app/createToken/eth) 一键发币带有黑名单/增发令牌
 
-[https://tokentool.info/createToken/V2](https://tokentool.info/createToken/V2) 一键发币含手续费
+[https://tokentools.app/createToken/V2](https://tokentools.app/createToken/V2) 一键发币含手续费
 
-[https://tokentool.info/createToken/V3](https://tokentool.info/createToken/V3) 一键发分红币
+[https://tokentools.app/createToken/V3](https://tokentools.app/createToken/V3) 一键发分红币
 
 ## 通过钱包APP操作步骤
 

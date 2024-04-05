@@ -1,9 +1,9 @@
 # 创建一个【双营销回流】代币
 
-> **TokenTool是一个区块链工具箱，支持ETH、BSC、等超多公链，可以创建多种不同机制模型代币，轻松解决发币问题，可在几分钟内创建一个属于你自己的Token。**
+> **TokenTools是一个区块链工具箱，支持ETH、BSC、等超多公链，可以创建多种不同机制模型代币，轻松解决发币问题，可在几分钟内创建一个属于你自己的Token。**
 
 
-> **点击加入 [TokenTool官方交流群](https://t.me/tokentool_app) 交流反馈**
+> **点击加入 [TokenTools官方交流群](https://t.me/tokentool_app) 交流反馈**
 
 > **推荐使用电脑版谷歌浏览器 + `Metamask` 插件钱包 进行操作.**
 > **手机用户也可以在 `TP钱包`-发现-输入官网链接 进行操作.**
@@ -28,9 +28,9 @@
 
 ## 创建一个带有【双营销回流】代币
 
-查看以下步骤，了解如何使用 MetaMask 通过 TokenTool 创建带有买卖费率令牌币。
+查看以下步骤，了解如何使用 MetaMask 通过 TokenTools 创建带有买卖费率令牌币。
 
-1. 首先我们通过可视化界面创建代币，通过 [https://www.tokentool.info/createToken/v2](https://www.tokentool.info/createToken/v2) 打开创建代币功能.填写代币信息.
+1. 首先我们通过可视化界面创建代币，通过 [https://tokentools.app/createToken/v2](https://tokentools.app/createToken/v2) 打开创建代币功能.填写代币信息.
 
 ![create token ](../.gitbook/assets/v2/Snipaste_2022-05-03_14-39-31.png)
 
@@ -139,6 +139,6 @@
 
 > 引用地址
 
-> 创建代币地址：[https://www.tokentool.info/createToken/v2](https://www.tokentool.info/createToken/v2) 
+> 创建代币地址：[https://tokentools.app/createToken/v2](https://tokentools.app/createToken/v2) 
 
 > YouTube教学视频：[https://youtu.be/zPVY_oZH5qo](https://youtu.be/zPVY_oZH5qo)  

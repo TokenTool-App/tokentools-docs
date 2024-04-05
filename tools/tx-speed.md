@@ -29,9 +29,9 @@
 
 
 
-> 引用地址：[https://tokentool.info/other/transaction/speed](https://tokentool.info/other/transaction/speed)
+> 引用地址：[https://tokentools.app/other/transaction/speed](https://tokentools.app/other/transaction/speed)
 >
-> 最新Gas汽油：[https://tokentool.info/gasPrice/eth](https://tokentool.info/gasPrice/eth)
+> 最新Gas汽油：[https://tokentools.app/gasPrice/eth](https://tokentools.app/gasPrice/eth)
 >
 > 原文链接：[https://docs.cointool.app](https://docs.cointool.app)
 

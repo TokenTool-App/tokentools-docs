@@ -1,6 +1,6 @@
-# TokenTool 帮助文档
+# TokenTools 帮助文档
 
-TokenTool 区块链工具箱
+TokenTools 区块链工具箱
 
 <img src=".gitbook/assets/logo.jpg" alt="logo" />
 
@@ -10,71 +10,71 @@ TokenTool 区块链工具箱
 
 
 
-> 原文链接：[https://docs.tokentool.info/](https://docs.tokentool.info)
+> 原文链接：[https://docs.tokentools.app/](https://docs.tokentools.app)
 >
 > 引用地址：
 >
 > 启动板
 >
-> [https://tokentool.info/launchpad/create](https://tokentool.info/launchpad/create) 创建启动板
+> [https://tokentools.app/launchpad/create](https://tokentools.app/launchpad/create) 创建启动板
 >
-> [https://tokentool.info/launchpad/list](https://tokentool.info/launchpad/list) 启动板列表
+> [https://tokentools.app/launchpad/list](https://tokentools.app/launchpad/list) 启动板列表
 > NFT
 >
-> [https://tokentool.info/nft/minting](https://tokentool.info/nft/minting) Live Mint(free-mint)
+> [https://tokentools.app/nft/minting](https://tokentools.app/nft/minting) Live Mint(free-mint)
 > 
-> [https://tokentool.info/nft/multiSender](https://tokentool.info/nft/multiSender) NFT批量发送
+> [https://tokentools.app/nft/multiSender](https://tokentools.app/nft/multiSender) NFT批量发送
 >
-> [https://tokentool.info/nft/createNft/eth](https://tokentool.info/nft/createNft/eth) 创建NFT
+> [https://tokentools.app/nft/createNft/eth](https://tokentools.app/nft/createNft/eth) 创建NFT
 >
-> [https://tokentool.info/nft/NftMoreToOne](https://tokentool.info/nft/NftMoreToOne) NFT批量归集
+> [https://tokentools.app/nft/NftMoreToOne](https://tokentools.app/nft/NftMoreToOne) NFT批量归集
 >
 > 创建代币
 >
-> [https://tokentool.info/createToken/standard](https://tokentool.info/createToken/standard) 标准代币版本
+> [https://tokentools.app/createToken/standard](https://tokentools.app/createToken/standard) 标准代币版本
 >
-> [https://tokentool.info/createToken/eth](https://tokentool.info/createToken/eth) 一键发币V1
+> [https://tokentools.app/createToken/eth](https://tokentools.app/createToken/eth) 一键发币V1
 >
-> [https://tokentool.info/createToken/V2](https://tokentool.info/createToken/V2) 一键发币含手续费V2
+> [https://tokentools.app/createToken/V2](https://tokentools.app/createToken/V2) 一键发币含手续费V2
 >
-> [https://tokentool.info/createToken/V3](https://tokentool.info/createToken/V3)  一键发分红币V3
+> [https://tokentools.app/createToken/V3](https://tokentools.app/createToken/V3)  一键发分红币V3
 > 
->[https://tokentool.info/createToken/V3](https://tokentool.info/createToken/V4)  加池子分红V4
+>[https://tokentools.app/createToken/V3](https://tokentools.app/createToken/V4)  加池子分红V4
 >
 > Token锁
 >
-> [https://tokentool.info/lock/create](https://tokentool.info/lock/create) 创建锁
+> [https://tokentools.app/lock/create](https://tokentools.app/lock/create) 创建锁
 >
-> [https://tokentool.info/lock/token](https://tokentool.info/lock/token) 锁令牌列表
+> [https://tokentools.app/lock/token](https://tokentools.app/lock/token) 锁令牌列表
 >
-> [https://tokentool.info/lock/liquidity](https://tokentool.info/lock/liquidity) 流动性列表
+> [https://tokentools.app/lock/liquidity](https://tokentools.app/lock/liquidity) 流动性列表
 >
 > 科学家抢币
 >
-> [https://tokentool.info/robotTrade/panicBuying](https://tokentool.info/robotTrade/panicBuying) 抢购模式
+> [https://tokentools.app/robotTrade/panicBuying](https://tokentools.app/robotTrade/panicBuying) 抢购模式
 >
-> [https://tokentool.info/robotTrade/grabPreSale](https://tokentool.info/robotTrade/grabPreSale) 抢预售
+> [https://tokentools.app/robotTrade/grabPreSale](https://tokentools.app/robotTrade/grabPreSale) 抢预售
 >
-> [https://tokentool.info/robotTrade/commissionOrder](https://tokentool.info/robotTrade/commissionOrder) 挂单模式
+> [https://tokentools.app/robotTrade/commissionOrder](https://tokentools.app/robotTrade/commissionOrder) 挂单模式
 >
-> [https://tokentool.info/robotTrade/unicrypt](https://tokentool.info/robotTrade/unicrypt) unicrypt 抢购
+> [https://tokentools.app/robotTrade/unicrypt](https://tokentools.app/robotTrade/unicrypt) unicrypt 抢购
 >
-> [https://tokentool.info/gasPrice/eth](https://tokentool.info/gasPrice/eth) 最新汽油费
+> [https://tokentools.app/gasPrice/eth](https://tokentools.app/gasPrice/eth) 最新汽油费
 >
-> [https://tokentool.info/oneToMore/eth](https://tokentool.info/oneToMore/eth) 批量发送Token
+> [https://tokentools.app/oneToMore/eth](https://tokentools.app/oneToMore/eth) 批量发送Token
 >
-> [https://tokentool.info/batchCheckBalance/eth](https://tokentool.info/batchCheckBalance/eth) 批量检查钱包余额
+> [https://tokentools.app/batchCheckBalance/eth](https://tokentools.app/batchCheckBalance/eth) 批量检查钱包余额
 >
-> [https://tokentool.info/approve/eth](https://tokentool.info/approve/eth) Token授权查询
+> [https://tokentools.app/approve/eth](https://tokentools.app/approve/eth) Token授权查询
 >
-> [https://tokentool.info/batchCollection/eth](https://tokentool.info/batchCollection/eth) Token批量归集
+> [https://tokentools.app/batchCollection/eth](https://tokentools.app/batchCollection/eth) Token批量归集
 >
-> [https://tokentool.info/tokenHoldScan/eth](https://tokentool.info/tokenHoldScan/eth) Token持有人扫描
+> [https://tokentools.app/tokenHoldScan/eth](https://tokentools.app/tokenHoldScan/eth) Token持有人扫描
 >
 > 其他工具
 > 
-> [https://tokentool.info/other/unitConverter/eth](https://tokentool.info/other/unitConverter/eth) ETH单位转换
+> [https://tokentools.app/other/unitConverter/eth](https://tokentools.app/other/unitConverter/eth) ETH单位转换
 > 
-> [https://tokentool.info/other/tokenApproval](https://tokentool.info/other/tokenApproval) 代币授权
+> [https://tokentools.app/other/tokenApproval](https://tokentools.app/other/tokenApproval) 代币授权
 > 
-> [https://tokentool.info/other/vanityAddressGenerator](https://tokentool.info/other/vanityAddressGenerator) 靓号生成
+> [https://tokentools.app/other/vanityAddressGenerator](https://tokentools.app/other/vanityAddressGenerator) 靓号生成

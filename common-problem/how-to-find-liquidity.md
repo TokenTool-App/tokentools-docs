@@ -47,7 +47,7 @@
 
 ## 方法4:通过合约安全检测功能
 
-1. 打开合约安全检测功能地址：[https://tokentool.info/audit/contract](https://tokentool.info/audit/contract)
+1. 打开合约安全检测功能地址：[https://tokentools.app/audit/contract](https://tokentools.app/audit/contract)
 2. 选择支持的链，输入合约地址进行安全检测。
 
 ![add-liquidity](../.gitbook/assets/common-problem/Snipaste_2022-11-24_22-25-45.png)

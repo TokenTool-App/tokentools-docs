@@ -5,7 +5,7 @@
 ## 挖矿列表
 
 1. 链接你的钱包。
-2. 前往[https://tokentool.info/mining/list](https://tokentool.info/mining/list) 我的挖矿列表
+2. 前往[https://tokentools.app/mining/list](https://tokentools.app/mining/list) 我的挖矿列表
 
 ![my-mining](../.gitbook/assets/mining/Snipaste_2022-06-20_16-43-58.png)
 

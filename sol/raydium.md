@@ -15,7 +15,7 @@ Raydium是SOL链上比较大的去中心化交易所，任何人都可以在上�
 
 - 请注意，创建ID的费用大概在**3-4 SOL**之间（每个ID只能对应一个代币对，不可重复使用）
 
-- 想要低价格创建OpenBook市场ID，可查看[廉价ID创建教程](https://docs.tokentool.info/sol/cheap-raydium)[https://docs.tokentool.info/sol/cheap-raydium](https://docs.tokentool.info/sol/cheap-raydium)
+- 想要低价格创建OpenBook市场ID，可查看[廉价ID创建教程](https://docs.tokentools.app/sol/cheap-raydium)[https://docs.tokentools.app/sol/cheap-raydium](https://docs.tokentools.app/sol/cheap-raydium)
 
 ![image-20240306203034716](../.gitbook/assets/sol/image-20240306203034716.png)
 

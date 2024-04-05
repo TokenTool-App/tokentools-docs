@@ -1,17 +1,17 @@
 # 创建挖矿
-如何使用TokenTool 创建挖矿活动
+如何使用TokenTools 创建挖矿活动
 [https://youtu.be/QfqfRCVvPc8](https://youtu.be/QfqfRCVvPc8)
 
 ## 第1步：挖矿规则
 
 1. 链接你的钱包。
-2. 前往[https://tokentool.info/mining/list](https://tokentool.info/mining/list) 创建挖矿页面。
+2. 前往[https://tokentools.app/mining/list](https://tokentools.app/mining/list) 创建挖矿页面。
 3. 点击创建挖矿
 
 ![create-mining](../.gitbook/assets/mining/Snipaste_2022-06-20_16-37-44.png)
 
 #### **1.1选择挖矿类型**
-TokenTool提供以下两种不同的挖矿类型，这两种类型都不支持通缩类型的代币(通缩类型根据币的价格自动放大或缩少供应量)，挖矿池子一旦创建，参数无法修改。
+TokenTools提供以下两种不同的挖矿类型，这两种类型都不支持通缩类型的代币(通缩类型根据币的价格自动放大或缩少供应量)，挖矿池子一旦创建，参数无法修改。
 
 - **单币质押挖矿**：鼓励用户锁仓代币，减少流通代币；创建后，用户只需要质押一种代币，就可以获取挖矿收益；
 - **双币做市挖矿**：激励用户为项目代币做市，提高代币在链上的流动性；创建后，用户需要先在流动性资金池中质押两种代币做市，获得LP，之后在挖矿池中质押LP获取挖矿奖励。
