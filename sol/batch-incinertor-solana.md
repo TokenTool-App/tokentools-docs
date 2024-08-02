@@ -1,4 +1,4 @@
-# 租金回收-领取钱包存留的SOL
+# 批量租金回收-领取钱包存留的SOL
 
 > **✅**  <font color=#265261>Solana关闭账户 | 批量回收账户租金 | 领取您的Solana</font>
 >
@@ -12,19 +12,23 @@
 
 ### **如何使用 Solana 关闭账户，回收租金工具**
 
-1. **链接钱包**
+1. **导入私钥钱包**
 2. **等待查询账户信息**
 3. **选择要关闭并回收的账户**
 5. **确认关闭发送上链等待租金回收完成**
 
 ### **具体步骤：**
-1. **链接钱包**
+1. **导入私钥钱包**
 
 **Solana租金回收**：[https://tokentools.app/sol/pump-launch](https://tokentools.app/sol/pump-launch)
 
-进入 [TokenTools](https://tokentools.app/sol/pump-launch) 租金回收页面，右上角支持切换语言。
+进入 [TokenTools](https://tokentools.app/sol/pump-launch) 租金回收页面，右上角支持切换语言/ 选择多钱包/并导入小号**私钥**。
 
-![image-20240802121206928](../.gitbook/assets/sol/image-20240802121206928.png)
+![image-20240802125507706](../.gitbook/assets/sol/image-20240802125507706.png)
+
+导入私钥，一行一个私钥，支持多地址导入
+
+![image-20240802125622189](../.gitbook/assets/sol/image-20240802125622189.png)
 
 2. **等待查询账户信息**
 
@@ -40,7 +44,7 @@
 
   
 
-![image-20240802121311247](../.gitbook/assets/sol/image-20240802121311247.png)
+![image-20240802125958990](../.gitbook/assets/sol/image-20240802125958990.png)
 
 
 
@@ -48,7 +52,7 @@
 
    <font color=#f65a51>如果需要关闭的账户较多，需要统计账户相关信息，还请耐心等待。</font>
 
-![image-20240802121444602](../.gitbook/assets/sol/image-20240802121444602.png)
+![image-20240802130017778](../.gitbook/assets/sol/image-20240802130017778.png)
 
 
 

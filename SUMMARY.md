@@ -39,6 +39,7 @@
 * [燃烧销毁Token/LP教程](sol/burn-assets.md)
 * [Raydium创建廉价的市场ID](sol/cheap-raydium.md)
 * [租金回收-免费领取Solana教程](sol/incinertor-solana.md)
+* [批量回收租金-领取Solana教程](sol/batch-incinertor-solana.md)
 
 ## NFT
 
