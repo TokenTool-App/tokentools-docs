@@ -30,7 +30,7 @@ NFT分红 : 扣除代币,'触发时'兑换分红代币分给持有NFT的用户
 
 
 
-![token](../.gitbook/assets/v5/image-20240821200523565.png)
+![token](../.gitbook/assets/v5/image-20240821200523566.png)
 
 
 
@@ -79,7 +79,7 @@ NFT分红 : 扣除代币,'触发时'兑换分红代币分给持有NFT的用户
 
 当前拥有者(owner)在没有放弃权限时，可通过token管理员页面进入后台，对其参数等信息进行可视化修改。我们提供了友好的交互页面，让管理者更加方便的操作合约/修改参数。
 
-![token-admin](../.gitbook/assets/v5/createToken_V5.png)
+![token-admin](../.gitbook/assets/v5/createToken.png)
 
 
 
