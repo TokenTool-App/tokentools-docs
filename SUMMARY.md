@@ -44,10 +44,10 @@
 
 ## 波场链 <a href="#tron" id="tron"></a>
 
-* [波场Tron一键发币教程](tron/bo-chang-tron-yi-jian-fa-bi-jiao-cheng.md)
+* [波场Tron一键发币教程](tron/createToken.md)
 * [波场代币合约验证和开源教程](tron/verify-contract.md)
 * [波场代币信息录入教程](tron/record-info.md)
-* [波场Tron批量转账工具教程](tron/bo-chang-tron-pi-liang-zhuan-zhang-gong-ju-jiao-cheng.md)
+* [波场Tron批量转账工具教程](tron/oneToMore.md)
 * [波宝钱包TronLink安装教程](tron/tronlink.md)
 
 ## NFT
