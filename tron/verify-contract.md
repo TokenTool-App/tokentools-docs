@@ -10,7 +10,7 @@
 代币验证之前，必须先下载合约文件
 {% endhint %}
 
-{% file src="../.gitbook/assets/coinToken.sol" %}
+{% file src="../.gitbook/assets/tron/verify/coinToken.sol" %}
 
 ### 一、找到开源入口
 
@@ -58,7 +58,7 @@
 
 参数填写完成之后，就是上传合约文件。我们将刚刚下载的合约文件传到来，如果没有下载，可以点击这里下载
 
-{% file src="../.gitbook/assets/coinToken.sol" %}
+{% file src="../.gitbook/assets/tron/verify/coinToken.sol" %}
 
 合约文件上传成功，就可以看到源码了
 
