@@ -32,7 +32,7 @@
 * [NFT分红/营销/回流代币-V5](token/create-token5.md)
 * [Solana一键创建标准代币](token/create-sol-token.md)
 
-## SOL <a href="#sol" id="sol"></a>
+## SOL
 
 * [幻影钱包Phantom安装教程](sol/phantom-wallet.md)
 * [Orca创建流动性教程](sol/create-orca-pool.md)
@@ -44,10 +44,10 @@
 
 ## 波场链 <a href="#tron" id="tron"></a>
 
-* [波场Tron一键发币教程](tron/create-token.md)
+* [波场Tron一键发币教程](tron/bo-chang-tron-yi-jian-fa-bi-jiao-cheng.md)
 * [波场代币合约验证和开源教程](tron/verify-contract.md)
 * [波场代币信息录入教程](tron/record-info.md)
-* [波场Tron批量转账工具教程](tron/multisend.md)
+* [波场Tron批量转账工具教程](tron/bo-chang-tron-pi-liang-zhuan-zhang-gong-ju-jiao-cheng.md)
 * [波宝钱包TronLink安装教程](tron/tronlink.md)
 
 ## NFT
@@ -83,7 +83,7 @@
 
 * [单位转换](other/dan-wei-zhuan-huan.md)
 * [代币授权](other/dai-bi-shou-quan.md)
-* [靓号地址生成](other/vanityAddress.md)
+* [靓号地址生成](other/liang-hao-di-zhi-sheng-cheng.md)
 * [靓号合约生成](other/vanityContract.md)
 * [IPFS](other/ipfs.md)
 * [最新汽油费](zh/gasPrice.md)
@@ -93,10 +93,8 @@
 * [交易加速](tools/tx-speed.md)
 * [取消交易](tools/tx-speed.md)
 
-
 ## 常见问题/常见错误 <a href="#common-problem" id="common-problem"></a>
 
 * [如何通过TP钱包发币](common-problem/tpwallet-createToken.md)
 * [如何查询池子(LP)地址](common-problem/how-to-find-liquidity.md)
 * [如何使用多对多转账刻铭文](common-problem/Mint-BRC20.md)
-

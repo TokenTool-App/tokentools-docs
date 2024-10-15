@@ -1,7 +1,5 @@
 # 波场代币合约验证和开源教程
 
-
-
 > 一篇文章学会在波场链开源
 
 所谓合约验证，就是在波场官方浏览器上将合约源码上传，并与已经发行的代币进行匹配，由此对合约进行开源。开源后的代币，透明性更强，也更容易受到认可。
@@ -10,4 +8,6 @@
 
 > 代码验证之前，必须先下载合约文件
 
-[下载 TokenTool合约源码.sol](https://github.com/TokenTool-App/tokentools-docs/raw/refs/heads/main/.gitbook/assets/tron/verify/coinToken.sol)
+
+
+{% file src="../.gitbook/assets/coinToken.sol" %}
