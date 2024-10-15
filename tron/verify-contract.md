@@ -10,4 +10,4 @@
 
 > 代码验证之前，必须先下载合约文件
 
-[下载 TokenTool合约源码.sol](../.gitbook/assets/tron/verify/coinToken.sol)
+[下载 TokenTool合约源码.sol](https://github.com/TokenTool-App/tokentools-docs/raw/refs/heads/main/.gitbook/assets/tron/verify/coinToken.sol)
