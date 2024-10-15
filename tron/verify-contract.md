@@ -50,11 +50,11 @@
 
 ![image](../.gitbook/assets/tron/verify/7.png)
 
-- **License：** 选择MIT
+-  **License：** 选择MIT
 
-- **优化：** No
+-  **优化：** No
 
-- **Runs：** 0
+-  **Runs：** 0
 
 参数填写完成之后，就是上传合约文件。我们将刚刚下载的合约文件传到来，如果没有下载，可以点击这里下载
 
@@ -72,7 +72,7 @@
 
 ![image](../.gitbook/assets/tron/verify/9.png)
 
-人机验证完成，点击**【验证并发布】**
+人机验证完成，点击 **【验证并发布】**
 
 ![image](../.gitbook/assets/tron/verify/10.png)
 
