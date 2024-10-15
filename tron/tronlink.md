@@ -8,7 +8,7 @@ TronLink Wallet，中文称之为：波宝钱包，是波场生态最大的去�
 
 > **点击加入 [TokenTool官方交流群](https://t.me/tokentool_app) 交流反馈**
 
-⚠️ 唯一官网：https://www.tronlink.org/cn/ ，其余都是假的
+⚠️ 唯一官网：[https://www.tronlink.org/cn/](https://www.tronlink.org/cn/) ，其余都是假的
 
 
 
@@ -16,11 +16,11 @@ TronLink Wallet，中文称之为：波宝钱包，是波场生态最大的去�
 
 波宝钱包TronLink有App和浏览器插件两个，App大家在Google Play或者Apple Store下载就可以了，这篇文章是教大家安装波宝钱包插件的
 
-首先，我们进入TronLink的官方网站：https://www.tronlink.org/cn/ ，点击谷歌浏览器图标，会跳转到插件安装地址
+首先，我们进入TronLink的官方网站：[https://www.tronlink.org/cn/](https://www.tronlink.org/cn/) ，点击谷歌浏览器图标，会跳转到插件安装地址
 
 ![image-20241015140033668](../.gitbook/assets/tron/image-20241015140033668.png)
 
-如果点击没有反应，也可以直接通过链接，也可以进入到钱包插件的安装页面，链接：https://chromewebstore.google.com/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec  进入安装页面后，我们点击Add To Chrome（添加至Chrome）
+如果点击没有反应，也可以直接通过链接，也可以进入到钱包插件的安装页面，链接：[https://chromewebstore.google.com/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec](https://chromewebstore.google.com/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec)  进入安装页面后，我们点击Add To Chrome（添加至Chrome）
 
 
 
@@ -80,7 +80,7 @@ TronLink Wallet，中文称之为：波宝钱包，是波场生态最大的去�
 
 以上是注册钱包的过程，如果我们要导入钱包应该怎么做呢？其实也很简单。
 
-首先，我们在第一步的时候选择**导入钱包**
+首先，我们在第一步的时候选择 **导入钱包**
 
 ![image-6](../.gitbook/assets/tron/image-6.png)
 
