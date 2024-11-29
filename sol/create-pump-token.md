@@ -24,23 +24,23 @@
 
 首先，打开PUMP发币页面：[https://tokentools.app/sol/pump-launch](https://tokentools.app/sol/pump-launch)，然后点击右上角的“选择钱包”。接着会出现钱包选择界面，选择Phantom钱包进行连接。
 
-![image-20241129113239950](../.gitbook/assets/sol/pump/image-20241129113239950.png)
+![pump](../.gitbook/assets/sol/pump/image-20241129113239950.png)
 
 
 
 此时，钱包插件会弹出连接按钮，点击“连接”即可。如果之前已经连接过钱包，则无需重复操作。
 
-![image-20241129113322531](../.gitbook/assets/sol/pump/image-20241129113322531.png)
+![pump](../.gitbook/assets/sol/pump/image-20241129113322531.png)
 
 连接成功后，网站右上角会出现你的钱包地址，此时就可以进行操作了
 
-![image-20241129113422184](../.gitbook/assets/sol/pump/image-20241129113422184.png)
+![pump](../.gitbook/assets/sol/pump/image-20241129113422184.png)
 
 #### 2、必填代币参数
 
 实际上，PUMP的发币流程与Sol的发币流程相同，主要是按照要求填写相关参数。唯一不同的是，PUMP的代币数量固定为10亿，精度固定为6，无需手动设置。
 
-![image-20241129113642788](../.gitbook/assets/sol/pump/image-20241129113642788.png)
+![pump](../.gitbook/assets/sol/pump/image-20241129113642788.png)
 
 - **币种名称：** 代币全称，支持中文、英文和中英混合（如：Solana)
 
@@ -64,7 +64,7 @@
 
 #### 3、选填代币参数
 
-![image-20241129115057149](../.gitbook/assets/sol/pump/image-20241129115057149.png)
+![pump](../.gitbook/assets/sol/pump/image-20241129115057149.png)
 
 
 
@@ -76,7 +76,7 @@
 
 如果您想使用捆绑交易，在发币后通过多个地址同时买入，请继续查看下面的教程。
 
-![image-20241129115542545](../.gitbook/assets/sol/pump/image-20241129115542545.png)
+![pump](../.gitbook/assets/sol/pump/image-20241129115542545.png)
 
 如果您还有捆绑买入的需求，我们再进行下一步
 
@@ -96,7 +96,7 @@ PUMP平台上有很多抢购机器人，它们会在开盘时以低价购买大�
 
 点击捆绑买入按钮后，您将看到如下页面。
 
-![image-20241129115916780](../.gitbook/assets/sol/pump/image-20241129115916780.png)
+![pump](../.gitbook/assets/sol/pump/image-20241129115916780.png)
 
 
 
@@ -108,54 +108,91 @@ PUMP平台上有很多抢购机器人，它们会在开盘时以低价购买大�
 
 点击“导入钱包”后，输入钱包的私钥（每行一个私钥）。
 
-![image-20241129120222231](../.gitbook/assets/sol/pump/image-20241129120222231.png)
+![pump](../.gitbook/assets/sol/pump/image-20241129120222231.png)
 
 
 
 导入私钥后，您可以看到钱包中的SOL余额。接着，输入您要购买的SOL数量，或者点击“MAX”按钮自动填写最大购买数量。
 
-![image-20241129120535095](../.gitbook/assets/sol/pump/image-20241129120535095.png)
+![pump](../.gitbook/assets/sol/pump/image-20241129120535095.png)
 
 如果需要批量填写购买数量，可以点击【快速填写】进行操作。
 
-![image-20241129120808283](../.gitbook/assets/sol/pump/image-20241129120808283.png)
+![pump](../.gitbook/assets/sol/pump/image-20241129120808283.png)
 
 还可以选择购买后的币留存在小号地址中，还是发送到DEV钱包（当前连接的钱包）。
 
 以上信息全部填写完毕后，【点击Pump开盘并买入】按钮。
 
-![image-20241129121200330](../.gitbook/assets/sol/pump/image-20241129121200330.png)
+![pump](../.gitbook/assets/sol/pump/image-20241129121200330.png)
 
 钱包确认后，代币就会在PUMP上架交易了，整个捆绑开盘的流程就算是完成了。完成后对话框可获取Token地址和Pump连接地址。
 
-![image-20241129144242405](../.gitbook/assets/sol/pump/image-20241129144242405.png)
+![pump](../.gitbook/assets/sol/pump/image-20241129144242405.png)
 
 
 
 最后我们通过Pump.fun平台查询到多地址同时买入信息。
 
-![image-20241129143925506](../.gitbook/assets/sol/pump/image-20241129143925506.png)
+![pump](../.gitbook/assets/sol/pump/image-20241129143925506.png)
 
 
 
 **PUMP开盘疑问解答**
 
 1. **最多捆绑16个地址，是否包括发币地址？**
+   
    答：不包括发币地址。总共最多支持17个地址（包括发币地址）同时参与买入。
 2. **为什么点击“立即创建”后没有反应？**
+   
    答：PUMP发币需要等待数据上链，大约需要10秒钟左右，之后会弹出钱包确认提示。
 3. **PUMP发币的数量和精度是多少？**
+   
    答：PUMP发的所有币数量固定为10亿，精度为6。
 4. **PUMP发币后，能修改代币资料吗？**
+   
    答：PUMP发的代币是没有权限修改的，不能增发、不能拉黑也不能修改代币资料。
 5. **在TokenTools平台进行PUMP发币和捆绑交易怎么收费？**
+   
    答：PUMP发币费用为0.03 SOL，每个地址的捆绑买入费用为0.03 SOL（可以通过页面下方提示查看费用）。
 6. **合约后缀是“pump”吗？**
+   
    答：是的，随着PUMP代币数量的增加，我们加入了后台算力，确保用户每次发币时都是pump后缀地址，只有1%的概率可能出现 合约后缀不适“pump”后缀，这只是算力不足的原因。
 7. **PUMP发币需要添加流动性池吗？**
+   
    答：不需要。用户购买后，PUMP会自动形成联合曲线流动性，无需手动添加池子。
 8. **PUMP发币满足什么条件才能上Raydium？**
+   
    答：当PUMP联合曲线的资金池达到85 SOL时，PUMP会帮助代币在Raydium V2上创建流动性，并销毁LP，这个过程也叫做内盘转成外盘。
 9. **导入钱包接收 和 DEV钱包接收有什么区别？**
+   
    **导入钱包接收：** 捆绑交易每个地址买入后，代币会存放在导入的每个钱包地址中。
+   
    **DEV钱包接收：** 代币买入后，会转移到当前连接的DEV钱包地址（即您登录时使用的钱包）。
+10. **PUMP代币开盘初始价格是多少?**
+
+      答：PUMP开盘初始价格默认是0.000000028sol
+
+<font color=#47af78>如果您还有其他任何问题，都可以进入Telegram电报群。</font>
+
+<font color=#47af78>TokenTools | 创建代币、批量空投和做市机器人等Solana工具集(https://tokentools.app)</font>
+
+<font color=#47af78>TokenTools | 安全、开源，给Solana用户带来最便利的一站式体验。</font>
+
+
+
+TokenTools社群
+
+- website: [https://tokentools.app](https://tokentools.app)
+
+- telegram: [https://t.me/tokentool_app](https://t.me/tokentool_app)
+
+- Twitter: [https://twitter.com/tokentool_app](https://twitter.com/tokentool_app)
+
+- Github: [https://github.com/tokenTool-App](https://github.com/tokenTool-App)
+
+- youtube: [https://www.youtube.com/@tokentool_app](https://www.youtube.com/@tokentool_app)
+
+- Email [tokentool.app@gmail.com](tokentool.app@gmail.com)
+
+- Gitbook：[https://docs.tokentools.app](https://docs.tokentools.app)
