@@ -30,10 +30,12 @@
 * [持币分红/营销/回流代币-V3](token/create-token3.md)
 * [加池分红/营销/回流代币-V4](token/create-token4.md)
 * [NFT分红/营销/回流代币-V5](token/create-token5.md)
-* [Solana一键创建标准代币](token/create-sol-token.md)
+
 
 ## SOL
 
+* [🔥Solana一键创建标准代币](token/create-sol-token.md)
+* [💊PUMP发币与捆绑买入教程](sol/create-pump-token.md)
 * [幻影钱包Phantom安装教程](sol/phantom-wallet.md)
 * [Orca创建流动性教程](sol/create-orca-pool.md)
 * [Raydium创建流动性教程](sol/raydium.md)
