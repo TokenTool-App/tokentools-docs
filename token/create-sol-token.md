@@ -2,7 +2,6 @@
 icon: axe-battle
 description: 基于Solana的最全一键发币教程
 ---
-
 # Solana一键创建代币
 
 > **TokenTool是一个区块链工具箱，支持ETH、BSC、BTC、SOL、等超多公链，可以创建多种不同机制模型代币，轻松解决发币问题，可在几分钟内创建一个属于你自己的Token。**
