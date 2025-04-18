@@ -1,8 +1,15 @@
+---
+icon: shield-check
+---
+
+
+
 # 创建流动性锁池子
 
 
 
-教学视频：添加流动性，锁池子、解锁等操作 [https://youtu.be/Dqb9qL22YwU](https://youtu.be/Dqb9qL22YwU)
+教学视频：添加流动性，锁池子、解锁等操作 
+{% embed url="https://youtu.be/Dqb9qL22YwU" %}
 
 
 

@@ -1,4 +1,13 @@
+---
+icon: lock
+---
+
 # 创建ERC20令牌锁
+
+教学视频：添加流动性，锁池子、解锁等操作 
+{% embed url="https://youtu.be/Dqb9qL22YwU" %}
+
+
 
 ## 什么是令牌锁？
 
