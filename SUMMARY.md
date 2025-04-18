@@ -2,7 +2,7 @@
 
 * [TokenTools 帮助文档](README.md)
 * [联系我们](zh/contact-us.md)
-* [社交链接](zh/social-links.md)
+* [工具导航](zh/navigation-links.md)
 * [服务费用](zh/service-fees.md)
 
 ## 启动板 <a href="#launchpads" id="launchpads"></a>
