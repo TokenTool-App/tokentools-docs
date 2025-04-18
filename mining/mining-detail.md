@@ -1,5 +1,5 @@
 ---
-bullseye-pointer
+icon: bullseye-pointer
 ---
 
 # 质押挖矿
