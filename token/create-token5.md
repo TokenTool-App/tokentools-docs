@@ -1,5 +1,5 @@
 ---
-icon: square-6.svg
+icon: square-6
 ---
 # 创建一个【持有NFT分红】代币
 

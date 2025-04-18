@@ -1,5 +1,5 @@
 ---
-icon: square-1.svg
+icon: square-1
 description: 干净合约、方便上手、无税无功能、Ave等检测全绿
 ---
 # 创建一个【标准ERC20】代币

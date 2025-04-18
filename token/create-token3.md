@@ -1,5 +1,5 @@
 ---
-icon: square-4.svg
+icon: square-4
 ---
 # 创建一个【持币分红】代币
 

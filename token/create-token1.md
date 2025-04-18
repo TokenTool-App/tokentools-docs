@@ -1,5 +1,5 @@
 ---
-icon: square-2.svg
+icon: square-2
 ---
 # 创建一个有[增发,假权限,回流本币]代币
 

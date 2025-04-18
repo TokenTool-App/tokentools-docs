@@ -1,5 +1,5 @@
 ---
-icon: square-3.svg
+icon: square-3
 ---
 # 创建一个【双营销回流】代币
 

@@ -1,5 +1,5 @@
 ---
-icon: square-5.svg
+icon: square-5
 ---
 # 创建一个【加池分红】代币
 
