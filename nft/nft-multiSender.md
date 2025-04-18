@@ -1,3 +1,7 @@
+---
+icon: hexagon-vertical-nft
+---
+
 # NFT批量发送
 
 > **TokenTool是一个区块链工具箱，支持ETH、BSC、等超多公链。**

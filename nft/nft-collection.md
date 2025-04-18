@@ -1,3 +1,7 @@
+---
+icon: album-collection-circle-plus
+---
+
 # NFT批量归集
 
 > **TokenTool是一个区块链工具箱，支持ETH、BSC、等超多公链。**

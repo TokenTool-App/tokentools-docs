@@ -1,3 +1,7 @@
+---
+icon: hexagon-vertical-nft-slanted
+---
+
 # 创建ERC721标准NFT
 
 > **TokenTool是一个区块链工具箱，支持ETH、BSC、等超多公链。**
@@ -7,7 +11,11 @@
 > **推荐使用电脑版谷歌浏览器 + `Metamask` 插件钱包 进行操作.**
 > **手机用户也可以在 `钱包APP`-发现-输入官网链接 进行操作.**
 
-> **视频教程链接： [https://youtu.be/JjYyoErrFw8](https://youtu.be/JjYyoErrFw8)**
+
+### 视频教程
+
+{% embed url="[https://youtu.be/JjYyoErrFw8" %}
+
 
 
 ### 功能说明
@@ -83,4 +91,4 @@
   - 解答：因为NFT交易平台都有图片缓存，刚更改的图片不会立马生效。你可以通过手动点击刷新（例如open sea平台） 你可以点击 Refersh metadata 按钮刷新图片
   - ![image-20231204123255005](../.gitbook/assets/nft/image-20231204123255005.png)
 - **NFT合约安全吗？**
-  - 解答：我们的NFT合约进行过安全审计，由SOLIDProof 审计机构审计，[查看审计报告](https://github.com/solidproof/projects/blob/main/2023/Token%20Tool%20NFT/SmartContract_Audit_Solidproof_TokenTool_NFT.pdf).
+  - 解答：我们的NFT合约进行过安全审计，由SOLIDProof 审计机构审计，[查看审计报告](https://github.com/TokenTool-App/cdn/blob/main/audit-report/SmartContract_Audit_Solidproof_TokenTool.pdf).
