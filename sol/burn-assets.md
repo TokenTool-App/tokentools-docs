@@ -1,3 +1,9 @@
+---
+icon: fire
+---
+
+
+
 # 燃烧销毁Token/LP教程
 
 
@@ -67,7 +73,7 @@
 
 
 - 可以看到我们钱包地址`Cs4ReAj...` 增加了 6,992,057.9843个 LP Token。
-- `2uYq3LC9K92Fpr8EyH...` 将是我们要查找的 LP地址账户，复制该地址到 SOL发币页面[https://tokentools.app/createToken/sol](https://tokentools.app/createToken/sol)，在菜单中选择销毁菜单。进行以上步骤燃烧。
+- `2uYq3LC9K92Fpr8EyH...` 将是我们要查找的 LP地址账户，复制此地址到 SOL发币页面[https://tokentools.app/createToken/sol](https://tokentools.app/createToken/sol)，在菜单中选择销毁菜单。进行以上步骤燃烧。
 
 
 

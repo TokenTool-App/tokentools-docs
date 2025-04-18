@@ -37,12 +37,12 @@
 * [🔥Solana一键创建标准代币](token/create-sol-token.md)
 * [💊PUMP发币与捆绑买入教程](sol/create-pump-token.md)
 * [幻影钱包Phantom安装教程](sol/phantom-wallet.md)
-* [Orca创建流动性教程](sol/create-orca-pool.md)
-* [Raydium创建流动性教程](sol/raydium.md)
+* [批量回收租金-领取Solana教程](sol/batch-incinertor-solana.md)
+* [租金回收-免费领取Solana教程](sol/incinertor-solana.md)
 * [燃烧销毁Token/LP教程](sol/burn-assets.md)
 * [Raydium创建廉价的市场ID](sol/cheap-raydium.md)
-* [租金回收-免费领取Solana教程](sol/incinertor-solana.md)
-* [批量回收租金-领取Solana教程](sol/batch-incinertor-solana.md)
+* [Raydium创建流动性教程](sol/raydium.md)
+* [Orca创建流动性教程](sol/create-orca-pool.md)
 
 ## 波场链 <a href="#tron" id="tron"></a>
 

@@ -1,3 +1,7 @@
+---
+icon: recycle
+---
+
 # 批量租金回收-领取钱包存留的SOL
 
 > **✅**  <font color=#265261>Solana关闭账户 | 批量回收账户租金 | 领取您的Solana</font>

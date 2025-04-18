@@ -1,3 +1,7 @@
+---
+icon: ghost
+---
+
 # 幻影钱包Phantom安装教程
 
 > Solana生态最常见的钱包

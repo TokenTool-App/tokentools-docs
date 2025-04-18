@@ -31,7 +31,7 @@ Solana链的代币无开源一说。
 ```
 ## Sol发币教程
 
-##### 1. 打开发币链接地址[https://tokentools.app/createToken/sol](https://tokentools.app/createToken/sol)，连接幻影钱包Phantom
+##### 1. 打开发币链接地址[https://tokentools.app/createToken/sol](https://tokentools.app/createToken/sol)，连接幻影钱包Phantom，如未安装Phantom请查看➡️ [安装Phantom教程](https://docs.tokentools.app/sol/phantom-wallet)
 
 ![image-20240207202544401](../.gitbook/assets/sol/image-20240207202544401.png)
 

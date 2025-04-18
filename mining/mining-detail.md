@@ -4,6 +4,12 @@ icon: bullseye-pointer
 
 # 质押挖矿
 
+使用TokenTools 创建挖矿活动视频教程
+
+{% embed url="https://youtu.be/QfqfRCVvPc8" %}
+
+
+
 ![Stake-farm](../.gitbook/assets/mining/Snipaste_2022-06-20_17-03-31.png)
 
 ## 质押挖矿介绍
