@@ -1,3 +1,7 @@
+---
+icon: magnifying-glass
+---
+
 # 添加/删除白名单
 
 TokenTools 上的白名单是管理员批准的地址列表，只有这些地址才能参与预售。拥有白名单的目的是保护预售免受机器人攻击并拥有真正的投资者。您可以在[创建 Launchpad](https://docs.tokentools.app/launchpads/create-a-launchpad)时或在预售开始前的任何时间启用/禁用白名单功能。

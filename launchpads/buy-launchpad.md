@@ -1,3 +1,7 @@
+---
+icon: people-group
+---
+
 # 如何购买预售
 
 如何参与 TokenTools 的预售

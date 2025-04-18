@@ -1,3 +1,7 @@
+---
+icon: binary-circle-check
+---
+
 # 更新启动板
 
 您可以通过以下步骤查看和更改有关 Launchpad 的一些基本信息：
