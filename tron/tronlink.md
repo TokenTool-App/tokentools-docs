@@ -1,4 +1,6 @@
-
+---
+icon: wallet
+---
 
 # 波宝钱包TronLink安装教程
 

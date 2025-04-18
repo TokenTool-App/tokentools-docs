@@ -1,3 +1,9 @@
+---
+​---
+icon: axe-battle
+​---
+---
+
 # 波场Tron一键发币教程
 
 > **TokenTool是一个区块链工具箱，支持TRX、ETH、BSC、等超多公链，可以创建多种不同机制模型代币，轻松解决发币问题，可在几分钟内创建一个属于你自己的Token。**
@@ -100,5 +106,4 @@
 如果您还有其他问题，可以加入TokenTool一键发币群了解，
 
 > **点击加入 [TokenTool官方交流群](https://t.me/tokentool_app) 交流反馈**
-
 
