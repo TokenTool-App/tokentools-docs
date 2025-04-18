@@ -1,47 +1,77 @@
-# Orca创建流动性教程
+---
+icon: money-bill-trend-up
+---
 
-Orca是Sol链上较为知名的去中心化交易所之一，和Raydium相比，在Orca上创建流动性所需要的费用极低（通常少于0.5sol），而且大家习惯在Orca上创建USDC的池子，因为USDC池子比SOL池子的无偿损失会更低，不用担心Sol价格波动带来的风险。
+# Orca 创建/移除流动性教程
 
-下面教大家通过Orca创建流动性资金池：
+[Orca](https://www.orca.so/) 是 Solana 链上较为知名的去中心化交易平台之一。相比 Raydium，Orca 上创建流动性池的成本更低（通常少于 0.5 SOL）。此外，许多用户更倾向于在 Orca 上创建 **USDC 交易对**，因为相比于 SOL 池，USDC 池能有效降低无常损失，不受 SOL 价格波动影响。
 
-打开网页：[https://www.orca.so/create-pool](https://www.orca.so/create-pool)，填写相应的代币信息：
+## ⚠️ 使用 Orca 创建池子的注意事项
+
+- 一些自动化交易机器人无法识别 Orca 上的新流动性池，可能无法进行挂单或交易操作。
+- OKX Web3 钱包的 Swap 功能对 Orca 流动性抓取存在延迟，可能短时间内不支持 Orca 上的新池子。
+- Orca 创建的 LP（流动性凭证）是一种 NFT，撤销（销毁）时步骤相对复杂。
+
+---
+
+## 🧪 创建流动性池步骤
+
+1. 打开 Orca 官方创建页面：[https://www.orca.so/create-pool](https://www.orca.so/create-pool)  
+2. 填写相关代币信息：
 
 ![img](../.gitbook/assets/sol/Orca.jpg)
 
-- **Token A：**就是你发行的代币，输入合约地址找到你的币
+- **Token A：** 你发行的代币，请填写正确的合约地址进行搜索
+- **Token B：** 交易对代币，如 USDC、USDT、SOL 等
+- **Fee Tier（手续费率）：** 建议选择 **0.2%**，过低的费率可能导致交易体验不佳
+- **Initial Price（初始价格）：** 假设你创建的是某代币对 SOL 的池子，该值表示“1 个代币等于多少 SOL”
+- **Liquidity Range（流动性范围）：** 可选 FULL（全价区间）或 CUSTOM（自定义价格区间）。建议选择 **FULL**，操作更简单，类似于传统 AMM 模式（如 PancakeSwap V2）
 
-- **Token B：**底池代币，例如USDT、SOL、USDC等
-
-- **Fee tier：**就是费率/滑点，我的建议是填0.2%，填对的太小不利于交易
-
-- **Initial price：**初始价格，假设你是做代币+sol的池子，那么这个价格就是一个币值多少sol的意思
-
-- **Liquidity range：**流动性范围，指的是你代币价格的范围，目前有FULL和CUSTOM两个选择。如果你不懂什么意思，直接选择FULL这个就行，即：全范围，和薄饼V2是一样的。如果选择CUSTOM，就是V3的概念了，这里不建议使用。
-
-所有的信息填写完成之后，下一步就是输入相应的代币数量。最终填写完成的如下：
+3. 填写完成后，输入两种代币的数量，如下图所示：
 
 ![img](../.gitbook/assets/sol/Orca2.jpg)
 
-确定价格无误之后，点击“Create Pool（创建池子）”，然后会跳出钱包，点击确认，即可完成资金池的创建。
+4. 确认价格和数量无误后，点击 **Create Pool（创建池子）**，钱包会弹出交易确认，签名并支付 gas 即可完成。
 
-**池子做好之后，应该如何查看？**
+---
 
-我们打开页面：[https://v1.orca.so/liquidity](https://v1.orca.so/liquidity) ，重新连接钱包（如果已经连接，则不需要）
+## 👀 如何查看已创建的池子？
+
+1. 打开 Orca 流动性页面：[https://v1.orca.so/liquidity](https://v1.orca.so/liquidity)  
+2. 连接钱包（如果已经连接则会自动识别）
 
 ![img](../.gitbook/assets/sol/Orca3.png)
 
-然后点击Portfolio，等待几秒钟，就能看到自己的池子
+3. 点击页面上的 **Portfolio（资产组合）**，稍等几秒即可看到你已创建的池子：
 
-![img](../.gitbook/assets/sol/Orca4.png)
-
+![img](../.gitbook/assets/sol/Orca4.png)  
 ![img](../.gitbook/assets/sol/Orca5.png)
 
-如果你想撤池子，可以点击你的交易对，选择 **提取** 流动性（如果想继续加池子，就选择 **存入**）
+---
+
+## 💧 如何撤回流动性？
+
+1. 在 Portfolio 页面中，点击你想操作的交易对  
+2. 选择 **Withdraw（提取）** 来撤回池中资产  
+   - 如果想继续添加代币，可以选择 **Deposit（存入）**
 
 ![img](../.gitbook/assets/sol/Orca6.png)
 
-之后，按照页面需要，选择撤出的流动性比例，再点击 **Withdraw，** 钱包确认并支付gas即可
+3. 选择要提取的比例，点击 **Withdraw** 并确认钱包交易即可完成：
 
 ![img](../.gitbook/assets/sol/Orca7.png)
 
-以上就是关于ORCA加池/撤池的相关教程了，有任何问题，记得进入官方电报群联系管理员解答
+---
+
+## 🙋 常见问题
+
+- 创建池子时手续费多少？  
+  通常在 **0.2–0.5 SOL** 之间，根据网络拥堵情况可能会浮动。
+
+- Orca 的 LP 是什么形式？  
+  LP 是以 **NFT 形式存在**，可在钱包或 Orca 的资产面板中查看和管理。
+
+---
+
+如在使用过程中遇到问题，欢迎加入我们的官方 Telegram 社区获取帮助：  
+📢 [https://t.me/tokentool_app](https://t.me/tokentool_app)

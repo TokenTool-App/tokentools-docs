@@ -1,4 +1,8 @@
-# Raydium创建流动性(做池子)教程
+---
+icon: money-bill-trend-up
+---
+
+# Raydium V2加池子教程(旧版本)
 
 
 

@@ -41,8 +41,10 @@
 * [租金回收-免费领取Solana教程](sol/incinertor-solana.md)
 * [燃烧销毁Token/LP教程](sol/burn-assets.md)
 * [Raydium创建廉价的市场ID](sol/cheap-raydium.md)
-* [Raydium创建流动性教程](sol/raydium.md)
-* [Orca创建流动性教程](sol/create-orca-pool.md)
+* [Raydium CPMM加池子教程](sol/cpmm-raydium.md)
+* [Raydium V2加池子教程(旧版本)](sol/raydium.md)
+* [Orca创建/移除流动性教程](sol/create-orca-pool.md)
+* [Meteora创建/移除流动性教程](sol/create-meteora-pool.md)
 
 ## 波场链 <a href="#tron" id="tron"></a>
 

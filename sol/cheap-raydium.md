@@ -1,3 +1,9 @@
+---
+icon: magnifying-glass
+---
+
+
+
 # Raydium创建廉价的 OpenBook ID
 
 
