@@ -1,3 +1,7 @@
+---
+bullseye-pointer
+---
+
 # 质押挖矿
 
 ![Stake-farm](../.gitbook/assets/mining/Snipaste_2022-06-20_17-03-31.png)

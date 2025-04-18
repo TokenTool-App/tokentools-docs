@@ -1,3 +1,6 @@
+---
+icon: hammer
+---
 # 创建挖矿
 如何使用TokenTools 创建挖矿活动
 [https://youtu.be/QfqfRCVvPc8](https://youtu.be/QfqfRCVvPc8)
