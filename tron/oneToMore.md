@@ -9,7 +9,7 @@ description: 通过 TokenTool 的工具完成波场批量转账
 
 相较于逐一转账，批量操作显著节省时间和精力。比如：一次性向 200 个地址转账，与手动进行 200 次操作相比，效率不可同日而语。同时，批量转账在能量消耗上也更加经济。
 
-下面，TokenTool 将演示如何使用该工具进行批量转账操作。
+下面，TokenTools 将演示如何使用该工具进行批量转账操作。
 
 {% hint style="info" %}
 波场链批量转账需要消耗能量，尤其是 USDT 这类合约代币，能量消耗极高。操作前建议提前购买足够能量。购买地址：[https://feee.io/?ic=Z5U7](https://feee.io/?ic=Z5U7)
@@ -45,7 +45,7 @@ description: 通过 TokenTool 的工具完成波场批量转账
 ![img](../.gitbook/assets/tron/multisend/image-5.png)
 
 若是首次操作合约代币（如 USDT），钱包会提示进行授权，点击确认即可。  
-> 注：TRX 原生代币无需授权。
+> 注意：TRX 原生代币无需授权。
 
 ![img](../.gitbook/assets/tron/multisend/image-6.png)
 

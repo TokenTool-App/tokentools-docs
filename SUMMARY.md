@@ -66,13 +66,6 @@
 * [创建你的流动性锁](lock/lock-create-liquidity.md)
 * [解锁LP池子或代币](lock/lock-liquidity.md)
 
-## 科学家模块 <a href="#scientist" id="scientist"></a>
-
-* [抢购模式](scientist/panicBuying.md)
-* [抢预售](scientist/grabPreSale.md)
-* [挂单模式](scientist/commissionOrder.md)
-* [unicrypt抢购](scientist/unicrypt.md)
-
 ## 批量操作 <a href="#multi" id="multi"></a>
 
 * [批量发送Token](multi/multiSender.md)
@@ -82,6 +75,11 @@
 * [Token批量归集](multi/batchCollection.md)
 * [Token/NFT持有人扫描](multi/tokenHoldScan.md)
 * [批量兑换(Swap)](multi/batchSwap.md)
+
+## 科学家模块 <a href="#scientist" id="scientist"></a>
+
+* [抢购模式](scientist/panicBuying.md)
+* [抢预售](scientist/grabPreSale.md)
 
 ## 其它 <a href="#other" id="other"></a>
 

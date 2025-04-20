@@ -14,7 +14,7 @@ icon: hexagon-vertical-nft-slanted
 
 ### 视频教程
 
-{% embed url="[https://youtu.be/JjYyoErrFw8" %}
+{% embed url="https://youtu.be/JjYyoErrFw8" %}
 
 
 
@@ -92,3 +92,4 @@ icon: hexagon-vertical-nft-slanted
   - ![image-20231204123255005](../.gitbook/assets/nft/image-20231204123255005.png)
 - **NFT合约安全吗？**
   - 解答：我们的NFT合约进行过安全审计，由SOLIDProof 审计机构审计，[查看审计报告](https://github.com/TokenTool-App/cdn/blob/main/audit-report/SmartContract_Audit_Solidproof_TokenTool.pdf).
+

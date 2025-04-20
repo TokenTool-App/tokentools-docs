@@ -1,3 +1,7 @@
+---
+icon: shield-cross
+---
+
 # 批量取消授权
 
 区块链在去中心领域越来越成熟，也越来越多的去中心话应用在区块链上发展，如近年来DeFi领域的火爆，主要的 DeFi 应用包括 ERC20 代币的借贷、质押和交易。若想在 [Uniswap](https://uniswap.org/)、[Aave](https://aave.com/) 和 [Yearn](https://yearn.finance/) 等DeFi 协议上使用 ERC20 代币，你需要授权 dApp 来使用这些代币。这就是所谓的 _**ERC20 授权**_ 。这些授权对于 DeFi 平台的运作来说必不可少，但是如果不加以控制，那将是非常危险的。
