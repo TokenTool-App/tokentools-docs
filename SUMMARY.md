@@ -6,7 +6,10 @@
 * [服务费用](zh/service-fees.md)
 
 ## 启动板 <a href="#launchpads" id="launchpads"></a>
-
+simple-mint
+* [创建标准Mint预售](launchpads/simple-mint.md)
+* [创建加池子Mint预售](launchpads/add-lp-mint.md)
+* [创建捐款Mint预售](launchpads/donate-mint.md)
 * [创建启动板](launchpads/create-a-launchpad.md)
 * [更新启动板](launchpads/update-a-launchpad.md)
 * [完成启动板](launchpads/finalize-a-launchpad.md)
@@ -30,6 +33,7 @@
 * [持币分红/营销/回流代币-V3](token/create-token3.md)
 * [加池分红/营销/回流代币-V4](token/create-token4.md)
 * [NFT分红/营销/回流代币-V5](token/create-token5.md)
+* [代币合约定制](token/custom-token.md)
 
 
 ## SOL
