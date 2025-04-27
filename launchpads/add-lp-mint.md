@@ -5,6 +5,10 @@ description: 100% 去中心化、预售即加池、自动分发 LP、人人都�
 
 # 创建加池子 Mint 预售教程
 
+{% embed url="https://youtu.be/7MP_8MqRUBM" %}
+
+
+
 ### 什么是加池子 Mint 预售？
 
 简单来说，就是通过 Mint 的方式进行预售，并将收到的 BNB 和代币一并加入流动性池。

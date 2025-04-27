@@ -5,6 +5,10 @@ description: 100% 去中心化的预售合约创建教程
 
 # 创建捐款 Mint 预售教程
 
+{% embed url="https://youtu.be/7MP_8MqRUBM" %}
+
+
+
 ### 什么是捐款 Mint 预售？
 
 捐款 Mint 预售是在标准预售的基础上加入捐赠机制：在用户进行 Mint 操作时，合约会按照设置的比例将部分资金转账至指定的捐款地址。
