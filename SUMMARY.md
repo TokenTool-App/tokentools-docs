@@ -5,8 +5,13 @@
 * [工具导航](zh/navigation-links.md)
 * [服务费用](zh/service-fees.md)
 
+## 空投 <a href="#airdrop" id="airdrop"></a>
+
+* [创建空投](airdrop/create-airdrop.md)
+* [领取空投](airdrop/claim-airdrop.md)
+
 ## 启动板 <a href="#launchpads" id="launchpads"></a>
-simple-mint
+
 * [创建标准Mint预售](launchpads/simple-mint.md)
 * [创建加池子Mint预售](launchpads/add-lp-mint.md)
 * [创建捐款Mint预售](launchpads/donate-mint.md)
