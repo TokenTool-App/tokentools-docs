@@ -33,11 +33,11 @@ description: TokenTools工具大全导航
 
 ### 创建预售
 
-标准预售工具：转账合约即预售、链上可查、100%去中性化
+[标准预售工具](https://tokentools.app/launchpad/simpleMint)：转账合约即预售、链上可查、100%去中性化
 
-加池预售工具：预售即加池、自动分发LP、人人都是做市商
+[加池预售工具](https://tokentools.app/launchpad/mintAddSale)：预售即加池、自动分发LP、人人都是做市商
 
-捐赠预售工具：公平做慈善、捐赠V神来炒作,打造新叙事预售名称
+[捐赠预售工具](https://tokentools.app/launchpad/donateMint)：公平做慈善、捐赠V神来炒作,打造新叙事预售名称
 
 [预售控制台](https://tokentools.app/launchpad/create)：根据软顶/硬顶创建预售，预售dapp链接进行参与、公平发射器。
 

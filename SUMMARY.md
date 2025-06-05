@@ -51,6 +51,7 @@
 * [燃烧销毁Token/LP教程](sol/burn-assets.md)
 * [Raydium创建廉价的市场ID](sol/cheap-raydium.md)
 * [Raydium CPMM加池子教程](sol/cpmm-raydium.md)
+* [Raydium CLMM稳定池教程](sol/clmm-raydium.md)
 * [Raydium V2加池子教程(旧版本)](sol/raydium.md)
 * [Orca创建/移除流动性教程](sol/create-orca-pool.md)
 * [Meteora创建/移除流动性教程](sol/create-meteora-pool.md)
@@ -92,9 +93,9 @@
 
 ## 其它 <a href="#other" id="other"></a>
 
-* [单位转换](other/dan-wei-zhuan-huan.md)
+* [单位转换](other/unitConverter.md)
 * [代币授权](other/dai-bi-shou-quan.md)
-* [靓号地址生成](other/liang-hao-di-zhi-sheng-cheng.md)
+* [靓号地址生成](other/vanityAddress.md)
 * [靓号合约生成](other/vanityContract.md)
 * [IPFS](other/ipfs.md)
 * [最新汽油费](zh/gasPrice.md)
