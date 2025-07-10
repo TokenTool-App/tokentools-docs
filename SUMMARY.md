@@ -118,3 +118,4 @@
 * [如何通过TP钱包发币](common-problem/tpwallet-createToken.md)
 * [如何查询池子(LP)地址](common-problem/how-to-find-liquidity.md)
 * [如何使用多对多转账刻铭文](common-problem/Mint-BRC20.md)
+* [钱包怎么添加代币？](common-problem/addtoken.md)
