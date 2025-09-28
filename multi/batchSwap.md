@@ -75,8 +75,7 @@ icon: rotate
 
 - **固定金额**：输入固定的 Token0 数量进行交易。
 
-![batch-swap](../.gitbook/assets/batchSwap/2025-09-28 14.25.15.gif)
-
+![batch-swap](../.gitbook/assets/batchSwap/image.gif)
 
 **滑点设置：** 根据代币的税率填写合适的滑点，例如 1%、3%、5%、20% 等
 
@@ -102,7 +101,7 @@ icon: rotate
 3. **价格下跌停止**
    - 输入一个价格，当市场价格跌到该值时，自动停止操作。
 
-![batch-swap](../.gitbook/assets/batchSwap/2025-09-28 15.01.22_2.gif)
+![batch-swap](../.gitbook/assets/batchSwap/image1.gif)
 
 **Gas 相关设置：**
 
