@@ -92,7 +92,9 @@
 * [令牌批量授权查询](multi/batch-approve.md)
 * [Token批量归集](multi/batchCollection.md)
 * [Token/NFT持有人扫描](multi/tokenHoldScan.md)
-* [批量兑换(Swap)](multi/batchSwap.md)
+* [批量Swap兑换(老版本)](multi/batchSwapOld.md)
+* [批量Swap兑换](multi/batchSwap.md)
+* [钱包多对多转账](multi/batch-transfer.md)
 
 ## 科学家模块 <a href="#scientist" id="scientist"></a>
 
