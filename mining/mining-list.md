@@ -4,7 +4,7 @@ icon: pencil
 
 # 我的挖矿列表
 
-使用TokenTools 创建挖矿活动视频教程
+使用 TokenTools 创建挖矿活动视频教程
 
 {% embed url="https://youtu.be/QfqfRCVvPc8" %}
 

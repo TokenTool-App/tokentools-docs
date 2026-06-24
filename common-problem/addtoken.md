@@ -35,7 +35,7 @@ description: 在各类钱包中添加自定义代币的完整教程
 适用于 **波场链（TRON）** 的钱包，操作方式如下：
 
 1. 切换至 TRON 主网  
-2. 点击 **添加资产** 右上角 **「+」** 按钮 图标  
+2. 点击**添加资产**右上角的**「+」**按钮图标  
 3. 输入合约地址或代币名称进行搜索
 
 ![addtoken](../.gitbook/assets/other/addtoken/image-1.jpg)
@@ -67,7 +67,7 @@ MetaMask 添加代币方式分为插件和移动端：
 1. 打开 Binance Web3 钱包 App  
 2. 点击资产页的 **管理代币** 按钮  
 3. 点击右上角 **「+」** 按钮  
-4. 输入合约地址搜索 ，顶尖级添加代币
+4. 输入合约地址搜索 ，点击添加代币
 
 ![addtoken](../.gitbook/assets/other/addtoken/6.png)
 

@@ -26,7 +26,7 @@ description: 使用 TP 钱包在手机上一键发币
 ![TP-createToken](../.gitbook/assets/common-problem/tp/image-20250609214215755.png)
 
 1. 点击**【发现】**菜单页
-2. 点击搜索栏，输入发币链接地址 输入`TokenTools`网址：tokentools.app
+2. 点击搜索栏，输入发币链接地址：TokenTools网址 tokentools.app
 
 ![TP-createToken](../.gitbook/assets/common-problem/tp/image-20250609214248904.png)
 
@@ -34,7 +34,7 @@ description: 使用 TP 钱包在手机上一键发币
 
 
 
-第六步：选择你要发行的代币类型，这里以`标准代币`为例
+第四步：选择你要发行的代币类型，这里以`标准代币`为例
 
 ![TP-createToken](../.gitbook/assets/common-problem/tp/image-20250609214757640.png)
 

@@ -80,7 +80,7 @@ Solana 的最小单位是 `Lamport`，1 SOL = 1,000,000,000 Lamports。
 |---------|---------------|---------------|------------------------|
 | ETH     | Wei           | ETH           | Gwei（用于 Gas）       |
 | BTC     | Satoshi       | BTC           | mBTC、uBTC             |
-| Solana  | Lamport       | SOL           | 无其他子单位命名       |
+| Solana  | Lamport       | SOL           | 无其他常用子单位       |
 
 掌握这些单位，有助于你在交易、转账、开发中更准确、安全地操作数字资产。
 

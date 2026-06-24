@@ -1,10 +1,10 @@
 # 如何查找池子(LP)合约地址
-如何查询自己的ERC20代币的池子(LP)的地址，我们添加流动性后，往往需要去锁池子，如何快速的通过一下方法查询到流动性池子的合约地址。
+创建代币并添加流动性后，往往需要锁池子。那么如何查询流动性池子的合约地址呢？可以通过以下方法：
 
 ## 方法1:通过添加流动性记录查询
 1. 通过区块链浏览器查询添加流动性交易记录
 
-2. 例如添加流动性的交易Hash 如（  [https://testnet.bscscan.com/tx/0xdfd9412767cba1f16051850abd4d6685deb9d655f308624f8a65a0891ed87077](https://testnet.bscscan.com/tx/0xdfd9412767cba1f16051850abd4d6685deb9d655f308624f8a65a0891ed87077)）
+2. 例如添加流动性的交易Hash 如（[https://testnet.bscscan.com/tx/0xdfd9412767cba1f16051850abd4d6685deb9d655f308624f8a65a0891ed87077](https://testnet.bscscan.com/tx/0xdfd9412767cba1f16051850abd4d6685deb9d655f308624f8a65a0891ed87077)）
 
 3. 例子中添加了5个BNB和1,000,000,000,000 个Doge代币，加入到Pancake交易所中。
 

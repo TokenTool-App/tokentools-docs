@@ -19,12 +19,12 @@ icon: scale-balanced
 
 ![batchCheckBalance](../.gitbook/assets/multi/image-20231118203333113.png)
 
-1. [导航到批量查询钱包余额菜单](https://tokentools.app/batchCheckBalance/eth)[https://tokentools.app/batchCheckBalance/eth](https://tokentools.app/batchCheckBalance/eth)
-2. 粘贴要查询的ERC20标准代币合约地址，默认为空查询本链币余额。（如Ethereum链查询的是ETH余额）
+1. [导航到批量查询钱包余额菜单](https://tokentools.app/batchCheckBalance/eth)
+2. 粘贴要查询的ERC20标准代币合约地址，默认为空，则查询本链币余额。（如Ethereum链查询的是ETH余额）
 
 ![batchCheckBalance](../.gitbook/assets/multi/image-20231118203658862.png)
-4. 输入多个要查询的钱包，也可以通过 Upload File 上传xlsx 表格的方式批量上传。
-6. 点击 查询余额 按钮进行批量查询钱包余额
+3. 输入多个要查询的钱包，也可以通过 Upload File 上传xlsx 表格的方式批量上传。
+4. 点击 查询余额 按钮进行批量查询钱包余额
 
 ![batchCheckBalance](../.gitbook/assets/multi/image-20231118203747756.png)
 

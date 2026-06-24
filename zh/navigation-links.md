@@ -16,7 +16,7 @@ description: TokenTools工具大全导航
 
 
 
-### 代币摸板/机制
+### 代币模板/机制
 
 [标准代币](https://tokentools.app/createToken/standard)：干净合约、方便上手、无税无功能、Ave检测全绿
 
@@ -33,11 +33,11 @@ description: TokenTools工具大全导航
 
 ### 创建预售
 
-[标准预售工具](https://tokentools.app/launchpad/simpleMint)：转账合约即预售、链上可查、100%去中性化
+[标准预售工具](https://tokentools.app/launchpad/simpleMint)：转账合约即预售、链上可查、100%去中心化
 
 [加池预售工具](https://tokentools.app/launchpad/mintAddSale)：预售即加池、自动分发LP、人人都是做市商
 
-[捐赠预售工具](https://tokentools.app/launchpad/donateMint)：公平做慈善、捐赠V神来炒作,打造新叙事预售名称
+[捐赠预售工具](https://tokentools.app/launchpad/donateMint)：公平做慈善、捐赠V神来炒作，打造新叙事预售名称
 
 [预售控制台](https://tokentools.app/launchpad/create)：根据软顶/硬顶创建预售，预售dapp链接进行参与、公平发射器。
 
@@ -82,7 +82,7 @@ description: TokenTools工具大全导航
 
 [TON发币官网](https://tokentools.app/createToken/ton)：全网最强的TON一键发币平台，支持在电报链创建代币
 
-[TON发币教程](https://docs.tokentools.app/ton/stardand)：全网最详细的TON发币教程，一分钟教会你在TON上发币
+[TON发币教程](https://docs.tokentools.app/ton/standard)：全网最详细的TON发币教程，一分钟教会你在TON上发币
 
 [Ston.fi加池教程](https://docs.tokentools.app/ton/ston)：ston.fi是TON链上最大的DEX，可以为任何代币创建流动性
 
@@ -165,9 +165,9 @@ Solana市值管理机器人请参考Solana板块
 
 # 社交媒体链接
 
-- website: [https://tokentools.app](https://tokentools.app/)
-- telegram:[https://t.me/tokentool_app](https://t.me/tokentool_app)
-- Twitter: [https://twitter.com/tokentool_app](https://twitter.com/tokentool_app)
-- Github: [https://github.com/tokenTool-App](https://github.com/tokenTool-App)
-- youtube: [https://www.youtube.com/@tokentool_app](https://www.youtube.com/@tokentool_app)
+- Website: [https://tokentools.app](https://tokentools.app)
+- Telegram: [https://t.me/tokentool_app](https://t.me/tokentool_app)
+- Twitter: [https://x.com/tokentool_app](https://x.com/tokentool_app)
+- GitHub: [https://github.com/TokenTool-App](https://github.com/TokenTool-App)
+- YouTube: [https://www.youtube.com/@tokentool_app](https://www.youtube.com/@tokentool_app)
 

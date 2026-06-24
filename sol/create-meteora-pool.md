@@ -6,7 +6,7 @@ icon: money-bill-trend-up
 
 # Meteora 创建/移除池子教程
 
-[Meteora](https://app.meteora.ag/) 是 Solana 上专注于 DeFi 收益基础设施的协议，由与 Jupiter 同一团队开发，致力于提供高资本效率的流动性池。通过 Meteora 创建的池子，有机会被集成进 Jupiter 交易路由，从而获得更多交易深度和曝光。
+[Meteora](https://app.meteora.ag/) 是 Solana 上专注于 DeFi 收益基础设施的协议，与 Jupiter 由同一团队开发，致力于提供高资本效率的流动性池。通过 Meteora 创建的池子，有机会被集成进 Jupiter 交易路由，从而获得更多交易深度和曝光。
 
 ---
 

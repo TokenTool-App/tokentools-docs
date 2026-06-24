@@ -5,7 +5,7 @@ description: 全网最详细TON发币教程
 
 ## 发币前准备
 
-- 💼 发币之前，务必使用安装Tonkeeper钱包插件，[安装教程](https://docs.tokentools.app/ton/tonkeeper)➔ https://docs.tokentools.app/ton/tonkeeper
+- 💼 发币之前，务必安装并使用 Tonkeeper 钱包插件，[安装教程](https://docs.tokentools.app/ton/tonkeeper)➔ https://docs.tokentools.app/ton/tonkeeper
 - 💰 钱包余额建议 ≥ 10 TON（用于部署合约和支付 Gas）
 
 ## TON发币教程
@@ -27,7 +27,7 @@ description: 全网最详细TON发币教程
 
 ![createToken](../.gitbook/assets/ton/createToken/image-20250622131934963.png)
 
-选择浏览器插件钱包，推荐使用 [Tonkeeper 钱包安装教程](https://docs.tokentools.app/ton/tonkeeper) 插件钱包
+选择浏览器插件钱包，推荐使用 Tonkeeper 插件钱包（[安装教程](https://docs.tokentools.app/ton/tonkeeper)）
 
 ![createToken](../.gitbook/assets/ton/createToken/image-20250622131946816.png)
 
@@ -89,9 +89,9 @@ description: 全网最详细TON发币教程
 
 **销毁拥有权：** 放弃丢弃权限
 
-**更新logo：** 修改logo图片，以及币的名称和简称，官网地址链接信息等等。TON链不同在创建完成后还可以修改名称和简称以及logo图片。
+**更新logo：** 修改logo图片，以及币的名称和简称，官网地址链接信息等等。TON链不同于其他链，在创建完成后还可以修改名称和简称以及logo图片。
 
-**燃烧数量：** 缩量缩少代币的流通，将总量打入燃烧地址中。
+**燃烧数量：** 减少代币的流通，将总量打入燃烧地址中。
 
 **铸币数量：** 扩大供应量，铸币需要填写地址，将铸出来的币发送到某个地址中。
 
@@ -110,7 +110,7 @@ description: 全网最详细TON发币教程
 - **Tonkeeper显示代币未验证怎么办**
   - 答：需要在Github提交代币信息，由官方团队审核后完成验证，提交地址：https://github.com/tonkeeper/ton-assets
 - **为什么我在Tonkeeper钱包里没有看到代币选项**
-  - 答：请先确认自己的地址是否正确。TON地址与比特币类似，有个多个，需要切换到正确的活动地址
+  - 答：请先确认自己的地址是否正确。TON地址与比特币类似，有多个，需要切换到正确的活动地址
   - ![createToken](../.gitbook/assets/ton/createToken/image-20250622134202659.png)
 
 

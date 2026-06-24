@@ -22,7 +22,7 @@ icon: shuffle
 ![import-wallet](../.gitbook/assets/multi-transfer/import-wallet.png)
 
 ### 导入格式
-在输入框中，每一行输入一个私钥地址：
+在输入框中，每一行输入一个私钥：
 ```
 私钥1
 私钥2

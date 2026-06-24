@@ -10,7 +10,7 @@ icon: recycle
 >
 > 在 Solana 上，每个 Token 或 NFT 都需支付 SOL 租金。通过简单步骤，批量销毁不需要的 NFT 或代币，快速回收账户租金。
 >
-> 你可以在 SOL 官方文档了解更多租金相关信息 [Link ](https://solana.com/docs/core/accounts)
+> 你可以在 SOL 官方文档了解更多租金相关信息 [Link](https://solana.com/docs/core/accounts)
 >
 > [全网最低GAS费用，分享赚钱还可获得30%服务费。](https://tokentools.app/sol/pump-launch)
 
@@ -21,7 +21,7 @@ icon: recycle
 1. **链接钱包**
 2. **等待查询账户信息**
 3. **选择要关闭并回收的账户**
-5. **确认关闭发送上链等待租金回收完成**
+4. **确认关闭发送上链等待租金回收完成**
 
 ### **具体步骤：**
 1. **链接钱包**

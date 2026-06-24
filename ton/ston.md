@@ -42,7 +42,9 @@ description: STON.fi 是 TON 区块链上最大的去中心化交易所（DEX）
 
 4. 钱包弹窗出现后，点击确认连接  
    
-5. ![Connect Wallet](../.gitbook/assets/ton/stonfi/image-20250622114101912.png)
+5. 在弹出的钱包窗口中点击确认，完成钱包连接
+
+![Connect Wallet](../.gitbook/assets/ton/stonfi/image-20250622114101912.png)
 
 连接成功之后，右上角会出现你的钱包地址
 
@@ -72,7 +74,7 @@ description: STON.fi 是 TON 区块链上最大的去中心化交易所（DEX）
 
 3. 填入要添加的数量。注意代币数量的比例将**决定初始交易价格**  
    > 示例：如果添加 1 TON + 1,000,000 TT，初始上线价格为 1 TT = 0.000001 TON  
-   > TON 当前约 $5.9，则 TT 上线价格为约 $0.0000059
+   > TON 当前约 $5.9，则 TT 上线价格约为 $0.0000059
 
 
 

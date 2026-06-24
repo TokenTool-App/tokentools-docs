@@ -8,7 +8,7 @@ icon: recycle
 >
 > 在 Solana 上，每个 Token 或 NFT 都需支付 SOL 租金。通过简单步骤，批量销毁不需要的 NFT 或代币，快速回收账户租金。
 >
-> 你可以在 SOL 官方文档了解更多租金相关信息 [Link ](https://solana.com/docs/core/accounts)
+> 你可以在 SOL 官方文档了解更多租金相关信息 [Link](https://solana.com/docs/core/accounts)
 >
 > [全网最低GAS费用，分享赚钱还可获得30%服务费。](https://tokentools.app/sol/pump-launch)
 
@@ -19,14 +19,14 @@ icon: recycle
 1. **导入私钥钱包**
 2. **等待查询账户信息**
 3. **选择要关闭并回收的账户**
-5. **确认关闭发送上链等待租金回收完成**
+4. **确认关闭发送上链等待租金回收完成**
 
 ### **具体步骤：**
 1. **导入私钥钱包**
 
 **Solana租金回收**：[https://tokentools.app/sol/pump-launch](https://tokentools.app/sol/pump-launch)
 
-进入 [TokenTools](https://tokentools.app/sol/pump-launch) 租金回收页面，右上角支持切换语言/ 选择多钱包/并导入小号**私钥**。
+进入 [TokenTools](https://tokentools.app/sol/pump-launch) 租金回收页面，右上角支持切换语言/选择多钱包/并导入小号**私钥**。
 
 ![image-20240802125507706](../.gitbook/assets/sol/image-20240802125507706.png)
 
@@ -66,11 +66,11 @@ icon: recycle
 
 > 2. SOL押金费领取成功后，我们将从中收取10%费用，作为我们开发人员的Coffee ☕️
 
-> 3. 分享此链接给朋友，您可赚取30%的服务费!
+> 3. 分享此链接给朋友，可赚取30%服务费
 
 
 
-<font color=#47af78>TokenTools | 创建代币、批量空投和做市机器人等Solana工具集(https://tokentools.app)</font>
+<font color=#47af78>TokenTools | 创建代币、批量空投和做市机器人等Solana工具集[https://tokentools.app](https://tokentools.app)</font>
 
 <font color=#47af78>TokenTools | 安全、开源，给Solana用户带来最便利的一站式体验。</font>
 

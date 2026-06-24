@@ -12,7 +12,7 @@ icon: rotate
 
 ### 开始交易
 
-在进行交易之前，您需要一个支持 Web3 的区块链钱包，例如 **MetaMask** 等插件钱包。本教程使用BSC网络作为教程的详细介绍。您还需要一些 BEP20 代币才能进行交易。
+在进行交易之前，您需要一个支持 Web3 的区块链钱包，例如 **MetaMask** 等插件钱包。本教程以BSC网络为例进行介绍。您还需要一些 BEP20 代币才能进行交易。
 
 
 ### 在TokenTool Swap批量兑换交易
@@ -23,7 +23,7 @@ icon: rotate
     目前支持 **私钥导入**：
 
    - 点击 `导入钱包`
-   - 在弹窗中输入私钥列表（每行一个私钥），或[下载模版](http://tokentools.app/xlsx/private_key_eth_example.xlsx)直接上传文件导入。
+   - 在弹窗中输入私钥列表（每行一个私钥），或[下载模板](http://tokentools.app/xlsx/private_key_eth_example.xlsx)直接上传文件导入。
    - 导入后，这些钱包将用于批量执行交易。
 
    ⚠️ **注意事项：**
@@ -38,7 +38,7 @@ icon: rotate
 
 ![image-20250916112359954](../.gitbook/assets/batchSwap/image-20250916112359954.png)
 
-- **从**：选择你要兑换的币 （例如 BNB、USDT、USDC、或其他交易对代币）。
+- **从**：选择你要兑换的币（例如BNB、USDT、USDC或其他交易对代币）。
 - **到**：选择目标 Token币（例如 你自己发行的代币，或其他代币）。
 
 ➡️ 表示 **从 Token0** 兑换 **到 Token1**。例如：本教程中演示用 USDT 兑换 TT 币（买入操作），相反方向则为卖出操作。
@@ -105,7 +105,7 @@ icon: rotate
 
 **Gas 相关设置：**
 
-- **Gas Price（油费）**
+- **Gas Price（Gas费）**
   - 固定：输入固定数值
   - 自动：系统自动获取网络推荐值
   - 随机：在你设置的范围内随机
@@ -198,7 +198,7 @@ icon: rotate
 
 **Q14：Gas Price 有哪些模式？**
 
- 答：Gas Price是汽油参数，有3种模式
+ 答：Gas Price 是 Gas 价格参数，有3种模式
 
 - 固定：输入一个固定值（风险：可能过低卡 Pending）。
 - 自动：系统自动获取最优 Gas（推荐）。
@@ -229,6 +229,6 @@ icon: rotate
 > 
 >  [https://youtu.be/A7wKrW3k24I](https://youtu.be/A7wKrW3k24I) 视频教程
 
-如果您还有其他问题，可以加入TokenTool 电报群了解，
+如果您还有其他问题，可以加入TokenTool 电报群了解。
 
 > **点击加入** [**TokenTool官方交流群**](https://t.me/tokentool_app) **交流反馈**

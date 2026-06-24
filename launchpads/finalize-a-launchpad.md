@@ -4,15 +4,15 @@ icon: robot
 
 # 完成启动板
 
-在您的预售达到软顶或硬顶的上限后，请按照以下步骤完成您的发射板
+在您的预售达到软顶或硬顶的上限后，请按照以下步骤完成您的启动板
 
 1. 前往[https://tokentools.app/launchpad/list](https://tokentools.app/launchpad/list)
-2. 点击“我的启动板”，你就可以在这里看到你自己发布的所有预售项目
+2. 点击”我的启动板”，您就可以在这里看到你自己发布的所有预售项目
 3. 点击ViewPool 查看预售详情信息
 
 ![update-launchpad](../.gitbook/assets/launchpad/Snipaste_2022-05-08_13-58-08.png)
 
-4. 在您的预售明细中，您可以看到“最终确认发射”按钮变成可点击状态。点击发射
+4. 在您的预售明细中，您可以看到”最终确定发射”按钮变成可点击状态。点击发射
 
 ![update-launchpad](../.gitbook/assets/launchpad/finalized.png)
 

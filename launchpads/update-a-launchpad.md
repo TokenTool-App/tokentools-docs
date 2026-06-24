@@ -13,12 +13,12 @@ icon: binary-circle-check
 ![update-launchpad](../.gitbook/assets/launchpad/Snipaste_2022-05-08_13-58-08.png)
 
 
-4. 点击下方中图片方框的编辑按钮
+4. 点击下方图片中方框的编辑按钮
 
 ![update-launchpad](../.gitbook/assets/launchpad/Snipaste_2022-05-08_14-03-42.png)
 
-5. 您可以编辑以下字段：Logo URL，(Website)官网地址，Facebook、Twitter、GitHub、telegram、Reddit、和launchpad描述信息。关于这些部分的一些重要说明：
-	- logoURL必须支持图片扩展名结尾：png、jpg、jpeg或gif. 
+5. 您可以编辑以下字段：Logo URL，(Website)官网地址，Facebook、Twitter、GitHub、Telegram、Reddit和launchpad描述信息。关于这些部分的一些重要说明：
+	- logoURL必须以支持的图片扩展名结尾：png、jpg、jpeg或gif。 
 	- logoURL 和 (Website)网站是必填字段，不能为空。
 
 一个例子：

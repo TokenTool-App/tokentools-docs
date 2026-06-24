@@ -19,7 +19,7 @@ Raydium是SOL链上比较大的去中心化交易所，任何人都可以在上�
 
 - 请注意，创建ID的费用大概在**3-4 SOL**之间（每个ID只能对应一个代币对，不可重复使用）
 
-- 想要低价格创建OpenBook市场ID，可查看[廉价ID创建教程](https://docs.tokentools.app/sol/cheap-raydium)[https://docs.tokentools.app/sol/cheap-raydium](https://docs.tokentools.app/sol/cheap-raydium)
+- 想要低价格创建OpenBook市场ID，可查看[廉价ID创建教程](https://docs.tokentools.app/sol/cheap-raydium)
 
 ![image-20240306203034716](../.gitbook/assets/sol/image-20240306203034716.png)
 
@@ -29,7 +29,7 @@ Raydium是SOL链上比较大的去中心化交易所，任何人都可以在上�
 
 **最小订单量：** 每次交易可以允许的最小订单，以“BTC/USDC”这个交易对为例。如果这里设置0.0001，就意味着用户单次交易不得少于0.0001个BTC。理论上来说，这个数量越小越好
 
-**最小价格变动幅度：** 每次交易价格波动的范围，一般来说不得超过你代币初始价格的千分之一。假设你是用USDC做池子，代币上线价格是1U，那么这个数值要小于0.001。如果是用SOL做池子，代币上线价格同样为1U的话，这个数值应该小于0.00001.（以Sol价格为100U为例）
+**最小价格变动幅度：** 每次交易价格波动的范围，一般来说不得超过你代币初始价格的千分之一。假设你是用USDC做池子，代币上线价格是1U，那么这个数值要小于0.001。如果是用SOL做池子，代币上线价格同样为1U的话，这个数值应该小于0.00001（以Sol价格为100U为例）
 
 ### 2、加池子
 
