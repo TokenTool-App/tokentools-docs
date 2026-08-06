@@ -40,6 +40,7 @@
 * [NFT分红/营销/回流代币-V5](token/create-token5.md)
 * [代币合约定制](token/custom-token.md)
 * [Four创建代币并捆绑买入教程](token/create-four.md)
+* [Flap创建代币并捆绑买入教程](token/create-flap.md)
 
 
 ## SOL
