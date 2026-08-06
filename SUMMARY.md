@@ -39,6 +39,7 @@
 * [加池分红/营销/回流代币-V4](token/create-token4.md)
 * [NFT分红/营销/回流代币-V5](token/create-token5.md)
 * [代币合约定制](token/custom-token.md)
+* [Four创建代币并捆绑买入教程](token/create-four.md)
 
 
 ## SOL
@@ -104,7 +105,7 @@
 ## 其它 <a href="#other" id="other"></a>
 
 * [单位转换](other/unitConverter.md)
-* [代币授权](other/dai-bi-shou-quan.md)
+* [代币授权](other/token-approve.md)
 * [靓号地址生成](other/vanityAddress.md)
 * [靓号合约生成](other/vanityContract.md)
 * [IPFS](other/ipfs.md)

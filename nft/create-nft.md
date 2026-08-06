@@ -1,5 +1,5 @@
 ---
-icon: hexagon-vertical-nft-slanted
+icon: hexagon-vertical-nft
 ---
 
 # 创建ERC721标准NFT
