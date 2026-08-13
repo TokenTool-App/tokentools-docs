@@ -98,10 +98,12 @@
 * [批量Swap兑换](multi/batchSwap.md)
 * [钱包多对多转账](multi/batch-transfer.md)
 
-## 科学家模块 <a href="#scientist" id="scientist"></a>
+## 流动性管理 <a href="#liquidity" id="liquidity"></a>
 
-* [抢购模式](scientist/panicBuying.md)
-* [抢预售](scientist/grabPreSale.md)
+* [创建V2流动性](liquidity/create-liquidity.md)
+* [创建稳定币流动性](liquidity/create-Stable-liquidity.md)
+* [流动性修复](liquidity/fixLp.md)
+
 
 ## 其它 <a href="#other" id="other"></a>
 
