@@ -103,6 +103,7 @@
 * [创建V2流动性](liquidity/create-liquidity.md)
 * [创建稳定币流动性](liquidity/create-Stable-liquidity.md)
 * [流动性修复](liquidity/fixLp.md)
+* [新增/删除流动性](liquidity/manage.md)
 
 
 ## 其它 <a href="#other" id="other"></a>
