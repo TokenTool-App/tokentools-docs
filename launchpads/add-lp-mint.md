@@ -55,7 +55,7 @@ description: 100% 去中心化、预售即加池、自动分发 LP、人人都�
 
 ### 2. 填写预售参数
 
-钱包连接成功后，我们通过TokenTools可视化页面创建预售，还是那个页面[https://tokentools.app/launchpad/mintAddSale](https://tokentools.app/launchpad/mintAddSale) 打开，填写相应的预售参数：
+钱包连接成功后，我们通过TokenTool可视化页面创建预售，还是那个页面[https://tokentools.app/launchpad/mintAddSale](https://tokentools.app/launchpad/mintAddSale) 打开，填写相应的预售参数：
 
 ![image-20250424173747176](../.gitbook/assets/launchpad/add-lp-mint/image-20250424173747176.png)
 

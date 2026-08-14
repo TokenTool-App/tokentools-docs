@@ -1,6 +1,6 @@
 ---
 icon: right-from-bracket
-description: 通过 TokenTool 的工具完成批量转账
+description: 通过 TokenTools 的工具完成批量转账
 ---
 
 # EVM链批量转账工具教程

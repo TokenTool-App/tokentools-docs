@@ -1,6 +1,6 @@
 ---
 icon: right-from-bracket
-description: 通过 TokenTool 的工具完成波场批量转账
+description: 通过 TokenTools 的工具完成波场批量转账
 ---
 
 # 波场 Tron 批量转账工具教程

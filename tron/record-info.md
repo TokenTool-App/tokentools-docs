@@ -6,10 +6,10 @@ icon: coin-front
 
 
 > **在波场浏览器上传logo与资料。**
-> **TokenTool是一个区块链工具箱，支持ETH、BSC、等超多公链。**
+> **TokenTools是一个区块链工具箱，支持ETH、BSC、等超多公链。**
 
 
-> **点击加入 [TokenTool官方交流群](https://t.me/tokentool_app) 交流反馈**
+> **点击加入 [TokenTools官方交流群](https://t.me/tokentool_app) 交流反馈**
 
 资料信息录入，简单来说就是把代币的logo、简介、社交媒体等信息上传到波场浏览器中，让整个项目显得更加正规、合理。尤其是logo上传之后，可以在波宝钱包显示，还是很有用的。
 

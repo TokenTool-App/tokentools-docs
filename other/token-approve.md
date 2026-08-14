@@ -5,9 +5,9 @@ description: ERC20/ERC721/ERC1155 代币授权与取消授权操作指南
 
 # 代币授权与取消授权
 
-> **TokenTool 是一款区块链工具箱，支持 ETH、BSC等超多公链，提供可视化的代币授权管理功能，帮助用户安全地管理代币授权、检测风险授权记录并及时取消不必要的授权。**
+> **TokenTools 是一款区块链工具箱，支持 ETH、BSC等超多公链，提供可视化的代币授权管理功能，帮助用户安全地管理代币授权、检测风险授权记录并及时取消不必要的授权。**
 
-> **点击加入 [TokenTool 官方交流群](https://t.me/tokentool_app) 交流反馈**
+> **点击加入 [TokenTools 官方交流群](https://t.me/tokentool_app) 交流反馈**
 
 > **推荐使用电脑版谷歌浏览器 + MetaMask 插件钱包进行操作。**
 > **手机用户也可以在 TP 钱包-发现-输入官网链接进行操作。**
@@ -31,7 +31,7 @@ description: ERC20/ERC721/ERC1155 代币授权与取消授权操作指南
 
 ## 二、操作入口
 
-打开 [TokenTool 自定义授权页面](https://tokentools.app/approve/eth)，进入页面后请确认当前钱包已连接，并切换到对应网络（如 BSC Mainnet、Ethereum Mainnet、Arbitrum、Polygon 等）。
+打开 [TokenTools 自定义授权页面](https://tokentools.app/approve/eth)，进入页面后请确认当前钱包已连接，并切换到对应网络（如 BSC Mainnet、Ethereum Mainnet、Arbitrum、Polygon 等）。
 
 ---
 
@@ -155,7 +155,7 @@ NFT 授权支持 **ERC721** 和 **ERC1155** 两种标准。切换至 NFT 模式�
 
 存在风险。如果授权给恶意合约，理论上对方可以通过 `transferFrom()` 转走你的全部代币。建议：
 - 仅授权给可信协议和已验证的官方合约
-- 定期使用 [TokenTool 批量取消授权](https://tokentools.app/approve/eth) 检查授权记录
+- 定期使用 [TokenTools 批量取消授权](https://tokentools.app/approve/eth) 检查授权记录
 - 不使用时及时取消不必要的授权
 
 ---
@@ -165,7 +165,7 @@ NFT 授权支持 **ERC721** 和 **ERC1155** 两种标准。切换至 NFT 模式�
 - ⚠️ 请务必确认授权对象为**官方合约地址**，谨防钓鱼网站伪造合约
 - ⚠️ 不要向陌生 DApp 进行无限授权
 - ⚠️ 授权前请核对：代币地址、合约地址、网络环境
-- ⚠️ 建议定期使用 TokenTool 检查并清理历史授权记录
+- ⚠️ 建议定期使用 TokenTools 检查并清理历史授权记录
 
 > 原文链接：[https://docs.tokentools.app/other/approve](https://docs.tokentools.app/other/approve)
 >

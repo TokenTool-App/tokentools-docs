@@ -55,7 +55,7 @@ description: 100% 去中心化的预售合约创建教程
 
 ### 2. 填写预售参数
 
-钱包连接成功后，我们通过TokenTools可视化页面创建预售，还是那个页面[https://tokentools.app/launchpad/donateMint](https://tokentools.app/launchpad/donateMint) 打开，填写相应的预售参数：
+钱包连接成功后，我们通过TokenTool可视化页面创建预售，还是那个页面[https://tokentools.app/launchpad/donateMint](https://tokentools.app/launchpad/donateMint) 打开，填写相应的预售参数：
 
 ![image-20250424212041845](../.gitbook/assets/launchpad/donate-mint/image-20250424212041845.png)
 

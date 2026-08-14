@@ -4,12 +4,12 @@ description: 干净合约、方便上手、无税无功能、Ave等检测全绿
 ---
 # 创建一个【标准ERC20】代币
 
-> **TokenTool是一个区块链工具箱，支持ETH、BSC等超多公链，可以创建多种不同机制模型代币，轻松解决发币问题，可在几分钟内创建一个属于你自己的Token。**
+> **TokenTools是一个区块链工具箱，支持ETH、BSC等超多公链，可以创建多种不同机制模型代币，轻松解决发币问题，可在几分钟内创建一个属于你自己的Token。**
 
 
 
 
-> **点击加入 [TokenTool官方交流群](https://t.me/tokentool_app) 交流反馈**
+> **点击加入 [TokenTools官方交流群](https://t.me/tokentool_app) 交流反馈**
 
 
 
@@ -50,7 +50,7 @@ USDT类似。检测没有任何机制。
 
 ## Token管理员
 
-查看以下步骤，了解如何使用 MetaMask 通过 TokenTool 进入Token管理员页面。
+查看以下步骤，了解如何使用 MetaMask 通过 TokenTools 进入Token管理员页面。
 
 ![create token](../.gitbook/assets/standard/Snipaste_2023-04-13_11-21-17.png)
 

@@ -4,12 +4,12 @@ description: 基于Solana的最全一键发币教程
 ---
 # Solana一键创建代币
 
-> **TokenTool是一个区块链工具箱，支持ETH、BSC、SOL等超多公链，可以创建多种不同机制模型代币，轻松解决发币问题，可在几分钟内创建一个属于你自己的Token。**
+> **TokenTools是一个区块链工具箱，支持ETH、BSC、SOL等超多公链，可以创建多种不同机制模型代币，轻松解决发币问题，可在几分钟内创建一个属于你自己的Token。**
 
 
 
 
-> **点击加入 [TokenTool官方交流群](https://t.me/tokentool_app) 交流反馈**
+> **点击加入 [TokenTools官方交流群](https://t.me/tokentool_app) 交流反馈**
 
 
 
@@ -82,7 +82,7 @@ Solana链的代币无开源一说。
 
 ## Token管理员
 
-查看以下步骤，了解如何使用 Phantom 通过 TokenTool 进入Token管理员页面。
+查看以下步骤，了解如何使用 Phantom 通过 TokenTools 进入Token管理员页面。
 
 
 ##### 1. 点击管理员菜单栏

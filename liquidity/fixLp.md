@@ -6,7 +6,7 @@ icon: hammer
 
 > 修复 V2 流动性池异常状态，解决因他人误转账导致的加池失败问题，让您的流动性恢复正常。
 
-> **点击加入 [TokenTool官方交流群](https://t.me/tokentool_app) 交流反馈**
+> **点击加入 [TokenTools官方交流群](https://t.me/tokentool_app) 交流反馈**
 >
 > **推荐使用电脑版谷歌浏览器 + `Metamask` 插件钱包进行操作**
 >

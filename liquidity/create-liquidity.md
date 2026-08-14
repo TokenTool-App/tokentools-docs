@@ -6,7 +6,7 @@ icon: water-arrow-up
 
 > 为你的代币创建 V2 流动性池，让所有用户都可以交易你的代币。支持 Uniswap V2 / PancakeSwap / SushiSwap 等主流 DEX。
 
-> **点击加入 [TokenTool官方交流群](https://t.me/tokentool_app) 交流反馈**
+> **点击加入 [TokenTools官方交流群](https://t.me/tokentool_app) 交流反馈**
 >
 > **推荐使用电脑版谷歌浏览器 + `Metamask` 插件钱包进行操作**
 >

@@ -1,6 +1,6 @@
 # 科学家抢DxSale预售教程
 
-TokenTool（https://tokentools.app）是一款免费的区块链工具集合，今天教大家如何快速抢购DxSale上的预售代币。DxSale在此不再做过多介绍，如果还不清楚DxSale的功能，大家可以先去网上学习学习。
+TokenTools（https://tokentools.app）是一款免费的区块链工具集合，今天教大家如何快速抢购DxSale上的预售代币。DxSale在此不再做过多介绍，如果还不清楚DxSale的功能，大家可以先去网上学习学习。
 
 打开 https://tokentools.app/robotTrade/grabPreSale，这是一款免费帮助用户抢购DxSale预售的工具。要在第一时间抢购成功，需要在倒计时结束后立即发起交易，将你的BNB发送到预售地址。
 

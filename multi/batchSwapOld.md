@@ -6,7 +6,7 @@ icon: rotate
 
 # 批量Swap兑换(老版本)
 
-与大多数交易所相比，在 TokenTool Swap 上进行交易非常容易。您不会被滑点所限制，所有计算都为您处理为最优结果。
+与大多数交易所相比，在 TokenTools Swap 上进行交易非常容易。您不会被滑点所限制，所有计算都为您处理为最优结果。
 
 {% embed url="https://youtu.be/A7wKrW3k24I" %}
 
@@ -15,7 +15,7 @@ icon: rotate
 在进行交易之前，您需要一个兼容 Web3 区块链交互的钱包。您可以使用 MetaMask 等钱包插件。您还需要一些 BEP20 代币才能进行交易。
 
 
-### 在TokenTool Swap批量兑换交易
+### 在TokenTools Swap批量兑换交易
 
 1. [在这里进入兑换页面。](https://tokentools.app/batchSwap/bsc)
 
